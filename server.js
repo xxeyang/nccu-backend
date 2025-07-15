@@ -3,27 +3,39 @@ const express = require('express');
 const cors = require('cors');
 
 // 2. 引入我們的資料檔案
-//    Node.js 會自動讀取並解析 data.json 檔案
 const landData = require('./data.json');
+
+// ===[修改點 1：讀取我們設定的秘密金鑰]===
+// process.env.API_SECRET_KEY 會讀取您在 Render 上設定的環境變數
+const OUR_SECRET_KEY = process.env.API_SECRET_KEY;
 
 // 3. 建立一個 Express 應用程式
 const app = express();
 
-// 4. 定義伺服器要運行的通訊埠 (Port)，我們先用 3000
-const PORT = 3000;
+// 4. 定義伺服器要運行的通訊埠 (Port)
+const PORT = process.env.PORT || 3000; // Render 會自動設定 PORT
 
-// 5. 啟用 CORS 中介軟體，這一步很重要，它允許您的前端網頁來請求資料
+// 5. 啟用 CORS
 app.use(cors());
 
-// 6. 建立我們的 API 端點 (API Endpoint)
-//    未來只要訪問 "http://.../api/data" 這個網址，伺服器就會回傳您的資料
+// 6. 建立我們的 API 端點
 app.get('/api/data', (req, res) => {
-    // 使用 res.json() 將我們讀進來的 landData 物件，以 JSON 格式回傳給前端
+    
+    // ===[修改點 2：檢查通關密語]===
+    // 從請求的標頭 (headers) 中，找出對方帶來的鑰匙
+    const providedKey = req.headers['x-api-key'];
+
+    // 檢查鑰匙是否正確
+    if (!providedKey || providedKey !== OUR_SECRET_KEY) {
+        // 如果沒有鑰匙，或鑰匙不正確，就回傳 401 Unauthorized 錯誤
+        return res.status(401).json({ error: 'Unauthorized: Access Key is missing or invalid.' });
+    }
+
+    // 如果鑰匙正確，才回傳資料
     res.json(landData);
 });
 
-// 7. 啟動伺服器，並讓它在指定的 Port 上監聽請求
+// 7. 啟動伺服器
 app.listen(PORT, () => {
-    console.log(`恭喜！您的資料 API 伺服器正在 http://localhost:${PORT} 上成功運行`);
-    console.log(`現在請打開您的網頁瀏覽器，在網址列輸入 http://localhost:${PORT}/api/data`);
+    console.log(`伺服器已啟動，並已加上 API Key 保護！`);
 });
