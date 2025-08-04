@@ -53,6 +53,6 @@ app.get('/api/debug', (req, res) => {
 });
 
 // 7. 啟動伺服器
-app.listen(PORT, () => {
-    console.log(`伺服器啟動！版本: ${APP_VERSION}。 API 金鑰存在狀態: ${!!process.env.API_SECRET_KEY}`);
+app.listen(PORT, '0.0.0.0', () => {
+    console.log(`伺服器啟動！版本: ${APP_VERSION}。 API 金鑰存在狀態: ${!!process.env.API_SECRET_KEY}`);
 });
