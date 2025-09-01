@@ -5117,6 +5117,52 @@
         "no_presale_age_10": 490793,
         "no_presale_age_20": 479749
       }
+    },
+  {
+    "Quarter": "2025_Q1",
+    "Nation": {
+      "all": 306469,
+      "age_10": 350188,
+      "age_20": 351871,
+      "no_presale": 306967,
+      "no_presale_age_10": 354255,
+      "no_presale_age_20": 355208
+    },
+    "Taipei": [],
+    "NewTaipei": {
+      "all": 477260,
+      "age_10": 582734,
+      "age_20": 553140,
+      "no_presale": 479785,
+      "no_presale_age_10": 590456,
+      "no_presale_age_20": 557660
+    },
+    "Taoyuan": {
+      "all": 294939,
+      "age_10": 363223,
+      "age_20": 337177,
+      "no_presale": 294370,
+      "no_presale_age_10": 363372,
+      "no_presale_age_20": 336926
+    },
+    "Taichung": [],
+    "Tainan": [],
+    "Kaohsiung": {
+      "all": 291421,
+      "age_10": 341043,
+      "age_20": 335469,
+      "no_presale": 289521,
+      "no_presale_age_10": 343117,
+      "no_presale_age_20": 337621
+    },
+    "Hsinchu": {
+      "all": 378248,
+      "age_10": 470726,
+      "age_20": 461028,
+      "no_presale": 389375,
+      "no_presale_age_10": 470726,
+      "no_presale_age_20": 461028
     }
-  ]
+  }
+]
 }
