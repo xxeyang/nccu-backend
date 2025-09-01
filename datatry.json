@@ -2,7 +2,7 @@
   "oldLabelData": [
     {
       "Quarter": "2012_Q3",
-      "Label": "副本修改測試慈含",
+      "Label": "副本修改測試",
       "Detail": "<b>實價登錄</b><br/>2012年8月1日起，實價登錄三法正式施行，要求成交案件需申報登錄實際資訊，但預售屋除外。"
     },
    {
@@ -1819,3314 +1819,3360 @@
   }
 ],
   "newData": [
-    {
-      "Quarter": "2012_Q3",
-      "Nation": {
-        "all": 209207,
-        "age_20": 295557,
-        "no_presale": 209207,
-        "no_presale_age_20": 295557
-      },
-      "Taipei": [],
-      "NewTaipei": {
-        "all": 258264,
-        "age_20": 512552,
-        "no_presale": 258264,
-        "no_presale_age_20": 512552
-      },
-      "Taoyuan": [],
-      "Taichung": [],
-      "Tainan": {
-        "all": 78562,
-        "age_20": 78562,
-        "no_presale": 78562,
-        "no_presale_age_20": 78562
-      },
-      "Kaohsiung": [],
-      "Hsinchu": []
+  {
+    "Quarter": "2012_Q3",
+    "Nation": {
+      "all": 209207,
+      "age_20": 295557,
+      "no_presale": 209207,
+      "no_presale_age_20": 295557
     },
-    {
-      "Quarter": "2012_Q4",
-      "Nation": {
-        "all": 152919,
-        "age_10": 183088,
-        "age_20": 151064,
-        "no_presale": 150484,
-        "no_presale_age_10": 183081,
-        "no_presale_age_20": 150757
-      },
-      "Taipei": {
-        "all": 513167,
-        "age_10": 548524,
-        "age_20": 532319,
-        "no_presale": 509855,
-        "no_presale_age_10": 546294,
-        "no_presale_age_20": 530109
-      },
-      "NewTaipei": {
-        "all": 237382,
-        "age_10": 217924,
-        "age_20": 231048,
-        "no_presale": 235975,
-        "no_presale_age_10": 216836,
-        "no_presale_age_20": 230845
-      },
-      "Taoyuan": {
-        "all": 128607,
-        "age_10": 152787,
-        "age_20": 134747,
-        "no_presale": 128579,
-        "no_presale_age_10": 152835,
-        "no_presale_age_20": 134714
-      },
-      "Taichung": {
-        "all": 119745,
-        "age_10": 162131,
-        "age_20": 125534,
-        "no_presale": 119590,
-        "no_presale_age_10": 161319,
-        "no_presale_age_20": 125359
-      },
-      "Tainan": {
-        "all": 78502,
-        "age_10": 152251,
-        "age_20": 83122,
-        "no_presale": 78502,
-        "no_presale_age_10": 152251,
-        "no_presale_age_20": 83122
-      },
-      "Kaohsiung": {
-        "all": 114602,
-        "age_10": 155501,
-        "age_20": 121630,
-        "no_presale": 113392,
-        "no_presale_age_10": 153775,
-        "no_presale_age_20": 120499
-      },
-      "Hsinchu": {
-        "all": 156170,
-        "age_10": 174469,
-        "age_20": 161428,
-        "no_presale": 157898,
-        "no_presale_age_10": 174469,
-        "no_presale_age_20": 161428
-      }
+    "Taipei": [],
+    "NewTaipei": {
+      "all": 258264,
+      "age_20": 512552,
+      "no_presale": 258264,
+      "no_presale_age_20": 512552
     },
-    {
-      "Quarter": "2013_Q1",
-      "Nation": {
-        "all": 160445,
-        "age_10": 193698,
-        "age_20": 161712,
-        "no_presale": 157628,
-        "no_presale_age_10": 193012,
-        "no_presale_age_20": 160169
-      },
-      "Taipei": {
-        "all": 536137,
-        "age_10": 598493,
-        "age_20": 572780,
-        "no_presale": 534684,
-        "no_presale_age_10": 595845,
-        "no_presale_age_20": 570636
-      },
-      "NewTaipei": {
-        "all": 248532,
-        "age_10": 239863,
-        "age_20": 244332,
-        "no_presale": 252780,
-        "no_presale_age_10": 250471,
-        "no_presale_age_20": 250876
-      },
-      "Taoyuan": {
-        "all": 134463,
-        "age_10": 155565,
-        "age_20": 140046,
-        "no_presale": 134289,
-        "no_presale_age_10": 155286,
-        "no_presale_age_20": 139836
-      },
-      "Taichung": {
-        "all": 130157,
-        "age_10": 172638,
-        "age_20": 139678,
-        "no_presale": 126949,
-        "no_presale_age_10": 179208,
-        "no_presale_age_20": 137008
-      },
-      "Tainan": {
-        "all": 73256,
-        "age_10": 73256,
-        "age_20": 74033,
-        "no_presale": 73256,
-        "no_presale_age_10": 73256,
-        "no_presale_age_20": 74033
-      },
-      "Kaohsiung": {
-        "all": 125643,
-        "age_10": 170942,
-        "age_20": 133764,
-        "no_presale": 125164,
-        "no_presale_age_10": 170478,
-        "no_presale_age_20": 133269
-      },
-      "Hsinchu": {
-        "all": 161517,
-        "age_10": 178436,
-        "age_20": 166838,
-        "no_presale": 163418,
-        "no_presale_age_10": 178288,
-        "no_presale_age_20": 166744
-      }
+    "Taoyuan": [],
+    "Taichung": [],
+    "Tainan": {
+      "all": 78562,
+      "age_20": 78562,
+      "no_presale": 78562,
+      "no_presale_age_20": 78562
     },
-    {
-      "Quarter": "2013_Q2",
-      "Nation": {
-        "all": 165045,
-        "age_10": 203345,
-        "age_20": 166698,
-        "no_presale": 162154,
-        "no_presale_age_10": 202716,
-        "no_presale_age_20": 165210
-      },
-      "Taipei": {
-        "all": 551031,
-        "age_10": 614760,
-        "age_20": 590587,
-        "no_presale": 548565,
-        "no_presale_age_10": 613583,
-        "no_presale_age_20": 587595
-      },
-      "NewTaipei": {
-        "all": 267104,
-        "age_10": 279154,
-        "age_20": 270486,
-        "no_presale": 265122,
-        "no_presale_age_10": 273696,
-        "no_presale_age_20": 267691
-      },
-      "Taoyuan": {
-        "all": 144372,
-        "age_10": 158456,
-        "age_20": 149623,
-        "no_presale": 144355,
-        "no_presale_age_10": 158426,
-        "no_presale_age_20": 149588
-      },
-      "Taichung": {
-        "all": 131583,
-        "age_10": 191458,
-        "age_20": 143841,
-        "no_presale": 125625,
-        "no_presale_age_10": 199245,
-        "no_presale_age_20": 139073
-      },
-      "Tainan": {
-        "all": 80661,
-        "age_10": 138266,
-        "age_20": 85603,
-        "no_presale": 80787,
-        "no_presale_age_10": 138266,
-        "no_presale_age_20": 85603
-      },
-      "Kaohsiung": {
-        "all": 125775,
-        "age_10": 172507,
-        "age_20": 133413,
-        "no_presale": 125382,
-        "no_presale_age_10": 171874,
-        "no_presale_age_20": 132869
-      },
-      "Hsinchu": {
-        "all": 167048,
-        "age_10": 181350,
-        "age_20": 173478,
-        "no_presale": 168136,
-        "no_presale_age_10": 181081,
-        "no_presale_age_20": 172962
-      }
+    "Kaohsiung": [],
+    "Hsinchu": []
+  },
+  {
+    "Quarter": "2012_Q4",
+    "Nation": {
+      "all": 152919,
+      "age_10": 183096,
+      "age_20": 151064,
+      "no_presale": 150484,
+      "no_presale_age_10": 183094,
+      "no_presale_age_20": 150757
     },
-    {
-      "Quarter": "2013_Q3",
-      "Nation": {
-        "all": 174955,
-        "age_10": 210278,
-        "age_20": 176729,
-        "no_presale": 172810,
-        "no_presale_age_10": 210658,
-        "no_presale_age_20": 176238
-      },
-      "Taipei": {
-        "all": 570628,
-        "age_10": 626866,
-        "age_20": 606284,
-        "no_presale": 563098,
-        "no_presale_age_10": 622698,
-        "no_presale_age_20": 599266
-      },
-      "NewTaipei": {
-        "all": 274866,
-        "age_10": 275945,
-        "age_20": 275415,
-        "no_presale": 274284,
-        "no_presale_age_10": 275582,
-        "no_presale_age_20": 275349
-      },
-      "Taoyuan": {
-        "all": 151193,
-        "age_10": 169937,
-        "age_20": 156921,
-        "no_presale": 151157,
-        "no_presale_age_10": 169889,
-        "no_presale_age_20": 156866
-      },
-      "Taichung": {
-        "all": 138780,
-        "age_10": 202646,
-        "age_20": 152655,
-        "no_presale": 134820,
-        "no_presale_age_10": 208352,
-        "no_presale_age_20": 148998
-      },
-      "Tainan": {
-        "all": 85155,
-        "age_10": 130397,
-        "age_20": 90069,
-        "no_presale": 85155,
-        "no_presale_age_10": 130397,
-        "no_presale_age_20": 90069
-      },
-      "Kaohsiung": {
-        "all": 138159,
-        "age_10": 179894,
-        "age_20": 146486,
-        "no_presale": 137744,
-        "no_presale_age_10": 179815,
-        "no_presale_age_20": 145942
-      },
-      "Hsinchu": {
-        "all": 171316,
-        "age_10": 186962,
-        "age_20": 177540,
-        "no_presale": 172529,
-        "no_presale_age_10": 186932,
-        "no_presale_age_20": 177540
-      }
+    "Taipei": {
+      "all": 513167,
+      "age_10": 548524,
+      "age_20": 532319,
+      "no_presale": 509855,
+      "no_presale_age_10": 546294,
+      "no_presale_age_20": 530109
     },
-    {
-      "Quarter": "2013_Q4",
-      "Nation": {
-        "all": 184420,
-        "age_10": 224617,
-        "age_20": 189931,
-        "no_presale": 182598,
-        "no_presale_age_10": 231203,
-        "no_presale_age_20": 190069
-      },
-      "Taipei": {
-        "all": 571455,
-        "age_10": 640357,
-        "age_20": 616863,
-        "no_presale": 569683,
-        "no_presale_age_10": 639570,
-        "no_presale_age_20": 613683
-      },
-      "NewTaipei": {
-        "all": 298851,
-        "age_10": 313068,
-        "age_20": 303355,
-        "no_presale": 299380,
-        "no_presale_age_10": 314569,
-        "no_presale_age_20": 304544
-      },
-      "Taoyuan": {
-        "all": 159970,
-        "age_10": 181379,
-        "age_20": 167144,
-        "no_presale": 159175,
-        "no_presale_age_10": 188727,
-        "no_presale_age_20": 167137
-      },
-      "Taichung": {
-        "all": 140830,
-        "age_10": 202950,
-        "age_20": 157861,
-        "no_presale": 138714,
-        "no_presale_age_10": 211053,
-        "no_presale_age_20": 155445
-      },
-      "Tainan": {
-        "all": 88529,
-        "age_10": 131417,
-        "age_20": 93544,
-        "no_presale": 88540,
-        "no_presale_age_10": 131417,
-        "no_presale_age_20": 93544
-      },
-      "Kaohsiung": {
-        "all": 144499,
-        "age_10": 184874,
-        "age_20": 153089,
-        "no_presale": 143793,
-        "no_presale_age_10": 184360,
-        "no_presale_age_20": 152241
-      },
-      "Hsinchu": {
-        "all": 173626,
-        "age_10": 192093,
-        "age_20": 179932,
-        "no_presale": 174575,
-        "no_presale_age_10": 192093,
-        "no_presale_age_20": 179932
-      }
+    "NewTaipei": {
+      "all": 237382,
+      "age_10": 217924,
+      "age_20": 231048,
+      "no_presale": 235975,
+      "no_presale_age_10": 216836,
+      "no_presale_age_20": 230845
     },
-    {
-      "Quarter": "2014_Q1",
-      "Nation": {
-        "all": 185483,
-        "age_10": 221443,
-        "age_20": 190403,
-        "no_presale": 181873,
-        "no_presale_age_10": 222555,
-        "no_presale_age_20": 188256
-      },
-      "Taipei": {
-        "all": 590788,
-        "age_10": 651435,
-        "age_20": 628618,
-        "no_presale": 586788,
-        "no_presale_age_10": 652800,
-        "no_presale_age_20": 628618
-      },
-      "NewTaipei": {
-        "all": 299749,
-        "age_10": 321167,
-        "age_20": 303924,
-        "no_presale": 304071,
-        "no_presale_age_10": 333223,
-        "no_presale_age_20": 311474
-      },
-      "Taoyuan": {
-        "all": 165289,
-        "age_10": 185932,
-        "age_20": 172906,
-        "no_presale": 163795,
-        "no_presale_age_10": 187084,
-        "no_presale_age_20": 172069
-      },
-      "Taichung": {
-        "all": 155002,
-        "age_10": 196390,
-        "age_20": 169583,
-        "no_presale": 143289,
-        "no_presale_age_10": 194093,
-        "no_presale_age_20": 157121
-      },
-      "Tainan": {
-        "all": 91521,
-        "age_10": 157709,
-        "age_20": 98969,
-        "no_presale": 91527,
-        "no_presale_age_10": 157709,
-        "no_presale_age_20": 98969
-      },
-      "Kaohsiung": {
-        "all": 144982,
-        "age_10": 188898,
-        "age_20": 156757,
-        "no_presale": 143595,
-        "no_presale_age_10": 186936,
-        "no_presale_age_20": 155088
-      },
-      "Hsinchu": {
-        "all": 167785,
-        "age_10": 183289,
-        "age_20": 173845,
-        "no_presale": 167676,
-        "no_presale_age_10": 181772,
-        "no_presale_age_20": 172668
-      }
+    "Taoyuan": {
+      "all": 128636,
+      "age_10": 152883,
+      "age_20": 134757,
+      "no_presale": 128579,
+      "no_presale_age_10": 152964,
+      "no_presale_age_20": 134740
     },
-    {
-      "Quarter": "2014_Q2",
-      "Nation": {
-        "all": 183365,
-        "age_10": 224825,
-        "age_20": 193418,
-        "no_presale": 177595,
-        "no_presale_age_10": 222998,
-        "no_presale_age_20": 189299
-      },
-      "Taipei": {
-        "all": 621172,
-        "age_10": 695570,
-        "age_20": 671593,
-        "no_presale": 604088,
-        "no_presale_age_10": 680964,
-        "no_presale_age_20": 652263
-      },
-      "NewTaipei": {
-        "all": 311501,
-        "age_10": 331296,
-        "age_20": 319731,
-        "no_presale": 308291,
-        "no_presale_age_10": 328311,
-        "no_presale_age_20": 315772
-      },
-      "Taoyuan": {
-        "all": 168063,
-        "age_10": 184436,
-        "age_20": 175704,
-        "no_presale": 165521,
-        "no_presale_age_10": 184582,
-        "no_presale_age_20": 174550
-      },
-      "Taichung": {
-        "all": 157815,
-        "age_10": 218942,
-        "age_20": 183276,
-        "no_presale": 151898,
-        "no_presale_age_10": 232212,
-        "no_presale_age_20": 174228
-      },
-      "Tainan": {
-        "all": 95613,
-        "age_10": 154648,
-        "age_20": 102972,
-        "no_presale": 95613,
-        "no_presale_age_10": 154648,
-        "no_presale_age_20": 102972
-      },
-      "Kaohsiung": {
-        "all": 140579,
-        "age_10": 200248,
-        "age_20": 158268,
-        "no_presale": 138435,
-        "no_presale_age_10": 197438,
-        "no_presale_age_20": 155990
-      },
-      "Hsinchu": {
-        "all": 174772,
-        "age_10": 194797,
-        "age_20": 185263,
-        "no_presale": 174772,
-        "no_presale_age_10": 193250,
-        "no_presale_age_20": 183769
-      }
+    "Taichung": {
+      "all": 119745,
+      "age_10": 162131,
+      "age_20": 125534,
+      "no_presale": 119590,
+      "no_presale_age_10": 161319,
+      "no_presale_age_20": 125359
     },
-    {
-      "Quarter": "2014_Q3",
-      "Nation": {
-        "all": 181970,
-        "age_10": 213471,
-        "age_20": 191732,
-        "no_presale": 178927,
-        "no_presale_age_10": 215628,
-        "no_presale_age_20": 190962
-      },
-      "Taipei": {
-        "all": 580916,
-        "age_10": 606724,
-        "age_20": 595339,
-        "no_presale": 568344,
-        "no_presale_age_10": 583388,
-        "no_presale_age_20": 576889
-      },
-      "NewTaipei": {
-        "all": 295180,
-        "age_10": 279228,
-        "age_20": 294569,
-        "no_presale": 291038,
-        "no_presale_age_10": 270793,
-        "no_presale_age_20": 289998
-      },
-      "Taoyuan": {
-        "all": 166889,
-        "age_10": 176496,
-        "age_20": 172284,
-        "no_presale": 165931,
-        "no_presale_age_10": 175342,
-        "no_presale_age_20": 171610
-      },
-      "Taichung": {
-        "all": 152787,
-        "age_10": 210830,
-        "age_20": 171807,
-        "no_presale": 153266,
-        "no_presale_age_10": 230605,
-        "no_presale_age_20": 175731
-      },
-      "Tainan": {
-        "all": 101893,
-        "age_10": 166370,
-        "age_20": 112810,
-        "no_presale": 101944,
-        "no_presale_age_10": 166370,
-        "no_presale_age_20": 112810
-      },
-      "Kaohsiung": {
-        "all": 153223,
-        "age_10": 193846,
-        "age_20": 166321,
-        "no_presale": 151583,
-        "no_presale_age_10": 196298,
-        "no_presale_age_20": 164337
-      },
-      "Hsinchu": {
-        "all": 177276,
-        "age_10": 200845,
-        "age_20": 190405,
-        "no_presale": 173858,
-        "no_presale_age_10": 202144,
-        "no_presale_age_20": 186645
-      }
+    "Tainan": {
+      "all": 78502,
+      "age_10": 152251,
+      "age_20": 83122,
+      "no_presale": 78502,
+      "no_presale_age_10": 152251,
+      "no_presale_age_20": 83122
     },
-    {
-      "Quarter": "2014_Q4",
-      "Nation": {
-        "all": 182299,
-        "age_10": 218684,
-        "age_20": 194615,
-        "no_presale": 178088,
-        "no_presale_age_10": 219671,
-        "no_presale_age_20": 191207
-      },
-      "Taipei": {
-        "all": 593405,
-        "age_10": 643699,
-        "age_20": 623559,
-        "no_presale": 587742,
-        "no_presale_age_10": 660438,
-        "no_presale_age_20": 631974
-      },
-      "NewTaipei": {
-        "all": 297648,
-        "age_10": 266889,
-        "age_20": 297296,
-        "no_presale": 290643,
-        "no_presale_age_10": 253345,
-        "no_presale_age_20": 287552
-      },
-      "Taoyuan": {
-        "all": 178020,
-        "age_10": 203121,
-        "age_20": 188436,
-        "no_presale": 176496,
-        "no_presale_age_10": 201802,
-        "no_presale_age_20": 186119
-      },
-      "Taichung": {
-        "all": 155709,
-        "age_10": 214565,
-        "age_20": 176150,
-        "no_presale": 153848,
-        "no_presale_age_10": 232337,
-        "no_presale_age_20": 182985
-      },
-      "Tainan": {
-        "all": 105716,
-        "age_10": 172625,
-        "age_20": 117731,
-        "no_presale": 103056,
-        "no_presale_age_10": 160139,
-        "no_presale_age_20": 113026
-      },
-      "Kaohsiung": {
-        "all": 156383,
-        "age_10": 195936,
-        "age_20": 170747,
-        "no_presale": 154379,
-        "no_presale_age_10": 195646,
-        "no_presale_age_20": 168850
-      },
-      "Hsinchu": {
-        "all": 181408,
-        "age_10": 202093,
-        "age_20": 192522,
-        "no_presale": 169519,
-        "no_presale_age_10": 194549,
-        "no_presale_age_20": 181223
-      }
+    "Kaohsiung": {
+      "all": 114603,
+      "age_10": 155501,
+      "age_20": 121633,
+      "no_presale": 113441,
+      "no_presale_age_10": 153775,
+      "no_presale_age_20": 120542
     },
-    {
-      "Quarter": "2015_Q1",
-      "Nation": {
-        "all": 188134,
-        "age_10": 218301,
-        "age_20": 200003,
-        "no_presale": 185276,
-        "no_presale_age_10": 219719,
-        "no_presale_age_20": 199003
-      },
-      "Taipei": {
-        "all": 615560,
-        "age_10": 671593,
-        "age_20": 654565,
-        "no_presale": 599068,
-        "no_presale_age_10": 653693,
-        "no_presale_age_20": 641772
-      },
-      "NewTaipei": {
-        "all": 298833,
-        "age_10": 277987,
-        "age_20": 298441,
-        "no_presale": 294215,
-        "no_presale_age_10": 265583,
-        "no_presale_age_20": 291388
-      },
-      "Taoyuan": {
-        "all": 178367,
-        "age_10": 191509,
-        "age_20": 185721,
-        "no_presale": 178483,
-        "no_presale_age_10": 197278,
-        "no_presale_age_20": 187959
-      },
-      "Taichung": {
-        "all": 166894,
-        "age_10": 194207,
-        "age_20": 180893,
-        "no_presale": 162850,
-        "no_presale_age_10": 205317,
-        "no_presale_age_20": 183084
-      },
-      "Tainan": {
-        "all": 104464,
-        "age_10": 166615,
-        "age_20": 120540,
-        "no_presale": 104464,
-        "no_presale_age_10": 166615,
-        "no_presale_age_20": 120540
-      },
-      "Kaohsiung": {
-        "all": 159455,
-        "age_10": 199878,
-        "age_20": 178524,
-        "no_presale": 158183,
-        "no_presale_age_10": 198258,
-        "no_presale_age_20": 177230
-      },
-      "Hsinchu": {
-        "all": 188284,
-        "age_10": 202711,
-        "age_20": 194225,
-        "no_presale": 186350,
-        "no_presale_age_10": 200810,
-        "no_presale_age_20": 191078
-      }
-    },
-    {
-      "Quarter": "2015_Q2",
-      "Nation": {
-        "all": 182967,
-        "age_10": 222374,
-        "age_20": 197787,
-        "no_presale": 178383,
-        "no_presale_age_10": 221250,
-        "no_presale_age_20": 194780
-      },
-      "Taipei": {
-        "all": 641402,
-        "age_10": 718724,
-        "age_20": 691587,
-        "no_presale": 634562,
-        "no_presale_age_10": 719924,
-        "no_presale_age_20": 688375
-      },
-      "NewTaipei": {
-        "all": 307813,
-        "age_10": 308179,
-        "age_20": 314071,
-        "no_presale": 304023,
-        "no_presale_age_10": 298033,
-        "no_presale_age_20": 308036
-      },
-      "Taoyuan": {
-        "all": 173002,
-        "age_10": 192023,
-        "age_20": 182737,
-        "no_presale": 172109,
-        "no_presale_age_10": 195517,
-        "no_presale_age_20": 183365
-      },
-      "Taichung": {
-        "all": 169241,
-        "age_10": 212076,
-        "age_20": 194955,
-        "no_presale": 162757,
-        "no_presale_age_10": 215570,
-        "no_presale_age_20": 191319
-      },
-      "Tainan": {
-        "all": 102370,
-        "age_10": 144033,
-        "age_20": 110896,
-        "no_presale": 102370,
-        "no_presale_age_10": 144033,
-        "no_presale_age_20": 110896
-      },
-      "Kaohsiung": {
-        "all": 151369,
-        "age_10": 190969,
-        "age_20": 168617,
-        "no_presale": 150952,
-        "no_presale_age_10": 192615,
-        "no_presale_age_20": 169372
-      },
-      "Hsinchu": {
-        "all": 180453,
-        "age_10": 192774,
-        "age_20": 188175,
-        "no_presale": 176403,
-        "no_presale_age_10": 189633,
-        "no_presale_age_20": 184714
-      }
-    },
-    {
-      "Quarter": "2015_Q3",
-      "Nation": {
-        "all": 184934,
-        "age_10": 226331,
-        "age_20": 204188,
-        "no_presale": 179868,
-        "no_presale_age_10": 223694,
-        "no_presale_age_20": 199489
-      },
-      "Taipei": {
-        "all": 617235,
-        "age_10": 669593,
-        "age_20": 653193,
-        "no_presale": 593874,
-        "no_presale_age_10": 668208,
-        "no_presale_age_20": 643111
-      },
-      "NewTaipei": {
-        "all": 300835,
-        "age_10": 289779,
-        "age_20": 301058,
-        "no_presale": 295965,
-        "no_presale_age_10": 277557,
-        "no_presale_age_20": 293749
-      },
-      "Taoyuan": {
-        "all": 174919,
-        "age_10": 189579,
-        "age_20": 183402,
-        "no_presale": 173782,
-        "no_presale_age_10": 187205,
-        "no_presale_age_20": 181960
-      },
-      "Taichung": {
-        "all": 160965,
-        "age_10": 225729,
-        "age_20": 194651,
-        "no_presale": 159610,
-        "no_presale_age_10": 221476,
-        "no_presale_age_20": 192374
-      },
-      "Tainan": {
-        "all": 106540,
-        "age_10": 160646,
-        "age_20": 123428,
-        "no_presale": 106615,
-        "no_presale_age_10": 160646,
-        "no_presale_age_20": 123428
-      },
-      "Kaohsiung": {
-        "all": 149620,
-        "age_10": 198278,
-        "age_20": 168169,
-        "no_presale": 149091,
-        "no_presale_age_10": 198056,
-        "no_presale_age_20": 168132
-      },
-      "Hsinchu": {
-        "all": 179506,
-        "age_10": 207063,
-        "age_20": 193278,
-        "no_presale": 173005,
-        "no_presale_age_10": 196980,
-        "no_presale_age_20": 185755
-      }
-    },
-    {
-      "Quarter": "2015_Q4",
-      "Nation": {
-        "all": 182264,
-        "age_10": 226238,
-        "age_20": 201901,
-        "no_presale": 174621,
-        "no_presale_age_10": 218172,
-        "no_presale_age_20": 195102
-      },
-      "Taipei": {
-        "all": 635228,
-        "age_10": 701329,
-        "age_20": 686707,
-        "no_presale": 594856,
-        "no_presale_age_10": 662040,
-        "no_presale_age_20": 636860
-      },
-      "NewTaipei": {
-        "all": 306484,
-        "age_10": 319722,
-        "age_20": 318288,
-        "no_presale": 303192,
-        "no_presale_age_10": 324610,
-        "no_presale_age_20": 318463
-      },
-      "Taoyuan": {
-        "all": 168902,
-        "age_10": 183491,
-        "age_20": 179540,
-        "no_presale": 162866,
-        "no_presale_age_10": 178767,
-        "no_presale_age_20": 175008
-      },
-      "Taichung": {
-        "all": 160048,
-        "age_10": 224588,
-        "age_20": 195074,
-        "no_presale": 159127,
-        "no_presale_age_10": 225759,
-        "no_presale_age_20": 193828
-      },
-      "Tainan": {
-        "all": 109094,
-        "age_10": 139924,
-        "age_20": 125788,
-        "no_presale": 105202,
-        "no_presale_age_10": 187547,
-        "no_presale_age_20": 123896
-      },
-      "Kaohsiung": {
-        "all": 145283,
-        "age_10": 204772,
-        "age_20": 167035,
-        "no_presale": 145236,
-        "no_presale_age_10": 204469,
-        "no_presale_age_20": 166731
-      },
-      "Hsinchu": {
-        "all": 174374,
-        "age_10": 189765,
-        "age_20": 183177,
-        "no_presale": 170479,
-        "no_presale_age_10": 185160,
-        "no_presale_age_20": 178400
-      }
-    },
-    {
-      "Quarter": "2016_Q1",
-      "Nation": {
-        "all": 194443,
-        "age_10": 231974,
-        "age_20": 214354,
-        "no_presale": 182965,
-        "no_presale_age_10": 223471,
-        "no_presale_age_20": 204997
-      },
-      "Taipei": {
-        "all": 623874,
-        "age_10": 687511,
-        "age_20": 674304,
-        "no_presale": 577159,
-        "no_presale_age_10": 645051,
-        "no_presale_age_20": 635031
-      },
-      "NewTaipei": {
-        "all": 296420,
-        "age_10": 283848,
-        "age_20": 298506,
-        "no_presale": 294509,
-        "no_presale_age_10": 283772,
-        "no_presale_age_20": 298460
-      },
-      "Taoyuan": {
-        "all": 189569,
-        "age_10": 213772,
-        "age_20": 203709,
-        "no_presale": 175628,
-        "no_presale_age_10": 202365,
-        "no_presale_age_20": 189980
-      },
-      "Taichung": {
-        "all": 154893,
-        "age_10": 235028,
-        "age_20": 200724,
-        "no_presale": 154836,
-        "no_presale_age_10": 235231,
-        "no_presale_age_20": 200493
-      },
-      "Tainan": {
-        "all": 98684,
-        "age_10": 71792,
-        "age_20": 113921,
-        "no_presale": 98420,
-        "no_presale_age_10": 71792,
-        "no_presale_age_20": 113779
-      },
-      "Kaohsiung": {
-        "all": 143463,
-        "age_10": 195954,
-        "age_20": 165288,
-        "no_presale": 142198,
-        "no_presale_age_10": 196980,
-        "no_presale_age_20": 164312
-      },
-      "Hsinchu": {
-        "all": 184152,
-        "age_10": 197944,
-        "age_20": 191463,
-        "no_presale": 181316,
-        "no_presale_age_10": 192840,
-        "no_presale_age_20": 186936
-      }
-    },
-    {
-      "Quarter": "2016_Q2",
-      "Nation": {
-        "all": 169855,
-        "age_10": 194954,
-        "age_20": 188711,
-        "no_presale": 175395,
-        "no_presale_age_10": 216893,
-        "no_presale_age_20": 201083
-      },
-      "Taipei": {
-        "all": 575550,
-        "age_10": 667509,
-        "age_20": 643127,
-        "no_presale": 556107,
-        "no_presale_age_10": 621919,
-        "no_presale_age_20": 606301
-      },
-      "NewTaipei": {
-        "all": 281122,
-        "age_10": 266050,
-        "age_20": 281993,
-        "no_presale": 283519,
-        "no_presale_age_10": 271560,
-        "no_presale_age_20": 285845
-      },
-      "Taoyuan": {
-        "all": 148238,
-        "age_10": 148919,
-        "age_20": 150321,
-        "no_presale": 162899,
-        "no_presale_age_10": 186995,
-        "no_presale_age_20": 179309
-      },
-      "Taichung": {
-        "all": 152775,
-        "age_10": 223569,
-        "age_20": 199957,
-        "no_presale": 152970,
-        "no_presale_age_10": 223569,
-        "no_presale_age_20": 199957
-      },
-      "Tainan": {
-        "all": 98929,
-        "age_10": 143445,
-        "age_20": 112545,
-        "no_presale": 98929,
-        "no_presale_age_10": 143445,
-        "no_presale_age_20": 112545
-      },
-      "Kaohsiung": {
-        "all": 142091,
-        "age_10": 207851,
-        "age_20": 178906,
-        "no_presale": 142091,
-        "no_presale_age_10": 207851,
-        "no_presale_age_20": 178906
-      },
-      "Hsinchu": {
-        "all": 170347,
-        "age_10": 185679,
-        "age_20": 181559,
-        "no_presale": 171217,
-        "no_presale_age_10": 195198,
-        "no_presale_age_20": 186036
-      }
-    },
-    {
-      "Quarter": "2016_Q3",
-      "Nation": {
-        "all": 175734,
-        "age_10": 197140,
-        "age_20": 190638,
-        "no_presale": 174048,
-        "no_presale_age_10": 198460,
-        "no_presale_age_20": 190664
-      },
-      "Taipei": {
-        "all": 610410,
-        "age_10": 672929,
-        "age_20": 661970,
-        "no_presale": 596383,
-        "no_presale_age_10": 666255,
-        "no_presale_age_20": 653926
-      },
-      "NewTaipei": {
-        "all": 292423,
-        "age_10": 286179,
-        "age_20": 297187,
-        "no_presale": 287488,
-        "no_presale_age_10": 270717,
-        "no_presale_age_20": 290195
-      },
-      "Taoyuan": {
-        "all": 148136,
-        "age_10": 148469,
-        "age_20": 149461,
-        "no_presale": 147821,
-        "no_presale_age_10": 148040,
-        "no_presale_age_20": 148744
-      },
-      "Taichung": {
-        "all": 160769,
-        "age_10": 228268,
-        "age_20": 204393,
-        "no_presale": 160846,
-        "no_presale_age_10": 228268,
-        "no_presale_age_20": 204393
-      },
-      "Tainan": {
-        "all": 107982,
-        "age_10": 166440,
-        "age_20": 153706,
-        "no_presale": 105970,
-        "no_presale_age_10": 164007,
-        "no_presale_age_20": 140912
-      },
-      "Kaohsiung": {
-        "all": 156717,
-        "age_10": 223866,
-        "age_20": 186985,
-        "no_presale": 156717,
-        "no_presale_age_10": 223795,
-        "no_presale_age_20": 186869
-      },
-      "Hsinchu": {
-        "all": 181392,
-        "age_10": 200955,
-        "age_20": 193506,
-        "no_presale": 182198,
-        "no_presale_age_10": 198950,
-        "no_presale_age_20": 192828
-      }
-    },
-    {
-      "Quarter": "2016_Q4",
-      "Nation": {
-        "all": 189914,
-        "age_10": 230288,
-        "age_20": 213094,
-        "no_presale": 186294,
-        "no_presale_age_10": 229479,
-        "no_presale_age_20": 211795
-      },
-      "Taipei": {
-        "all": 590567,
-        "age_10": 668988,
-        "age_20": 653993,
-        "no_presale": 580380,
-        "no_presale_age_10": 659008,
-        "no_presale_age_20": 642828
-      },
-      "NewTaipei": {
-        "all": 288076,
-        "age_10": 280473,
-        "age_20": 292400,
-        "no_presale": 282200,
-        "no_presale_age_10": 266496,
-        "no_presale_age_20": 282998
-      },
-      "Taoyuan": {
-        "all": 178595,
-        "age_10": 197769,
-        "age_20": 191830,
-        "no_presale": 173855,
-        "no_presale_age_10": 198086,
-        "no_presale_age_20": 189489
-      },
-      "Taichung": {
-        "all": 154674,
-        "age_10": 227170,
-        "age_20": 205623,
-        "no_presale": 154674,
-        "no_presale_age_10": 227170,
-        "no_presale_age_20": 205623
-      },
-      "Tainan": {
-        "all": 113706,
-        "age_10": 165223,
-        "age_20": 158215,
-        "no_presale": 110063,
-        "no_presale_age_10": 163902,
-        "no_presale_age_20": 155440
-      },
-      "Kaohsiung": {
-        "all": 142126,
-        "age_10": 214696,
-        "age_20": 175517,
-        "no_presale": 142126,
-        "no_presale_age_10": 214696,
-        "no_presale_age_20": 175517
-      },
-      "Hsinchu": {
-        "all": 215722,
-        "age_10": 238486,
-        "age_20": 232780,
-        "no_presale": 217058,
-        "no_presale_age_10": 238428,
-        "no_presale_age_20": 232605
-      }
-    },
-    {
-      "Quarter": "2017_Q1",
-      "Nation": {
-        "all": 181664,
-        "age_10": 215342,
-        "age_20": 203517,
-        "no_presale": 177124,
-        "no_presale_age_10": 212294,
-        "no_presale_age_20": 200058
-      },
-      "Taipei": {
-        "all": 600073,
-        "age_10": 682678,
-        "age_20": 671868,
-        "no_presale": 582230,
-        "no_presale_age_10": 653931,
-        "no_presale_age_20": 647375
-      },
-      "NewTaipei": {
-        "all": 251831,
-        "age_10": 228836,
-        "age_20": 240266,
-        "no_presale": 242674,
-        "no_presale_age_10": 215478,
-        "no_presale_age_20": 227256
-      },
-      "Taoyuan": {
-        "all": 174588,
-        "age_10": 197699,
-        "age_20": 186397,
-        "no_presale": 167630,
-        "no_presale_age_10": 197643,
-        "no_presale_age_20": 184774
-      },
-      "Taichung": {
-        "all": 153302,
-        "age_10": 219544,
-        "age_20": 197527,
-        "no_presale": 153392,
-        "no_presale_age_10": 219544,
-        "no_presale_age_20": 197527
-      },
-      "Tainan": {
-        "all": 130317,
-        "age_10": 164840,
-        "age_20": 162602,
-        "no_presale": 127134,
-        "no_presale_age_10": 164532,
-        "no_presale_age_20": 162217
-      },
-      "Kaohsiung": {
-        "all": 136823,
-        "age_10": 209706,
-        "age_20": 174463,
-        "no_presale": 136726,
-        "no_presale_age_10": 209286,
-        "no_presale_age_20": 173742
-      },
-      "Hsinchu": {
-        "all": 214669,
-        "age_10": 231888,
-        "age_20": 227045,
-        "no_presale": 216684,
-        "no_presale_age_10": 233775,
-        "no_presale_age_20": 228301
-      }
-    },
-    {
-      "Quarter": "2017_Q2",
-      "Nation": {
-        "all": 178349,
-        "age_10": 223835,
-        "age_20": 207840,
-        "no_presale": 173712,
-        "no_presale_age_10": 218990,
-        "no_presale_age_20": 203967
-      },
-      "Taipei": {
-        "all": 599131,
-        "age_10": 652228,
-        "age_20": 640934,
-        "no_presale": 581512,
-        "no_presale_age_10": 640585,
-        "no_presale_age_20": 628435
-      },
-      "NewTaipei": {
-        "all": 265114,
-        "age_10": 247785,
-        "age_20": 254982,
-        "no_presale": 258727,
-        "no_presale_age_10": 229600,
-        "no_presale_age_20": 243522
-      },
-      "Taoyuan": {
-        "all": 171043,
-        "age_10": 200266,
-        "age_20": 190559,
-        "no_presale": 170450,
-        "no_presale_age_10": 200600,
-        "no_presale_age_20": 190764
-      },
-      "Taichung": {
-        "all": 157436,
-        "age_10": 228266,
-        "age_20": 200167,
-        "no_presale": 157455,
-        "no_presale_age_10": 228266,
-        "no_presale_age_20": 200167
-      },
-      "Tainan": {
-        "all": 110972,
-        "age_10": 167737,
-        "age_20": 162028,
-        "no_presale": 110889,
-        "no_presale_age_10": 168013,
-        "no_presale_age_20": 162007
-      },
-      "Kaohsiung": {
-        "all": 140628,
-        "age_10": 213215,
-        "age_20": 180413,
-        "no_presale": 139790,
-        "no_presale_age_10": 210354,
-        "no_presale_age_20": 179540
-      },
-      "Hsinchu": {
-        "all": 193650,
-        "age_10": 228504,
-        "age_20": 220309,
-        "no_presale": 197441,
-        "no_presale_age_10": 228823,
-        "no_presale_age_20": 220281
-      }
-    },
-    {
-      "Quarter": "2017_Q3",
-      "Nation": {
-        "all": 174909,
-        "age_10": 222658,
-        "age_20": 207035,
-        "no_presale": 172936,
-        "no_presale_age_10": 221337,
-        "no_presale_age_20": 205917
-      },
-      "Taipei": {
-        "all": 597098,
-        "age_10": 651911,
-        "age_20": 648460,
-        "no_presale": 585359,
-        "no_presale_age_10": 639841,
-        "no_presale_age_20": 637770
-      },
-      "NewTaipei": {
-        "all": 280010,
-        "age_10": 271835,
-        "age_20": 287210,
-        "no_presale": 278588,
-        "no_presale_age_10": 266364,
-        "no_presale_age_20": 287557
-      },
-      "Taoyuan": {
-        "all": 169200,
-        "age_10": 193957,
-        "age_20": 183683,
-        "no_presale": 168714,
-        "no_presale_age_10": 193922,
-        "no_presale_age_20": 183554
-      },
-      "Taichung": {
-        "all": 157402,
-        "age_10": 232155,
-        "age_20": 208532,
-        "no_presale": 157499,
-        "no_presale_age_10": 232155,
-        "no_presale_age_20": 208532
-      },
-      "Tainan": {
-        "all": 108962,
-        "age_10": 172296,
-        "age_20": 152579,
-        "no_presale": 108962,
-        "no_presale_age_10": 172296,
-        "no_presale_age_20": 152579
-      },
-      "Kaohsiung": {
-        "all": 143431,
-        "age_10": 219845,
-        "age_20": 185861,
-        "no_presale": 143253,
-        "no_presale_age_10": 219499,
-        "no_presale_age_20": 185812
-      },
-      "Hsinchu": {
-        "all": 182050,
-        "age_10": 223488,
-        "age_20": 211230,
-        "no_presale": 183729,
-        "no_presale_age_10": 223570,
-        "no_presale_age_20": 211230
-      }
-    },
-    {
-      "Quarter": "2017_Q4",
-      "Nation": {
-        "all": 180048,
-        "age_10": 225802,
-        "age_20": 212136,
-        "no_presale": 176264,
-        "no_presale_age_10": 224142,
-        "no_presale_age_20": 208142
-      },
-      "Taipei": {
-        "all": 599149,
-        "age_10": 681455,
-        "age_20": 666213,
-        "no_presale": 590608,
-        "no_presale_age_10": 671081,
-        "no_presale_age_20": 647636
-      },
-      "NewTaipei": {
-        "all": 278350,
-        "age_10": 281699,
-        "age_20": 283160,
-        "no_presale": 276610,
-        "no_presale_age_10": 275051,
-        "no_presale_age_20": 279729
-      },
-      "Taoyuan": {
-        "all": 176026,
-        "age_10": 207192,
-        "age_20": 194383,
-        "no_presale": 169066,
-        "no_presale_age_10": 197866,
-        "no_presale_age_20": 187190
-      },
-      "Taichung": {
-        "all": 157772,
-        "age_10": 233045,
-        "age_20": 211489,
-        "no_presale": 157755,
-        "no_presale_age_10": 232711,
-        "no_presale_age_20": 211220
-      },
-      "Tainan": {
-        "all": 112645,
-        "age_10": 175408,
-        "age_20": 163674,
-        "no_presale": 111045,
-        "no_presale_age_10": 170939,
-        "no_presale_age_20": 161055
-      },
-      "Kaohsiung": {
-        "all": 141603,
-        "age_10": 224977,
-        "age_20": 185983,
-        "no_presale": 141603,
-        "no_presale_age_10": 224977,
-        "no_presale_age_20": 185983
-      },
-      "Hsinchu": {
-        "all": 186833,
-        "age_10": 218802,
-        "age_20": 207504,
-        "no_presale": 187359,
-        "no_presale_age_10": 218516,
-        "no_presale_age_20": 206821
-      }
-    },
-    {
-      "Quarter": "2018_Q1",
-      "Nation": {
-        "all": 188813,
-        "age_10": 216255,
-        "age_20": 210255,
-        "no_presale": 182489,
-        "no_presale_age_10": 219291,
-        "no_presale_age_20": 208949
-      },
-      "Taipei": {
-        "all": 609970,
-        "age_10": 658212,
-        "age_20": 649550,
-        "no_presale": 600005,
-        "no_presale_age_10": 629993,
-        "no_presale_age_20": 628638
-      },
-      "NewTaipei": {
-        "all": 315864,
-        "age_10": 340549,
-        "age_20": 331499,
-        "no_presale": 315040,
-        "no_presale_age_10": 341993,
-        "no_presale_age_20": 332162
-      },
-      "Taoyuan": {
-        "all": 180340,
-        "age_10": 206797,
-        "age_20": 195395,
-        "no_presale": 171339,
-        "no_presale_age_10": 185620,
-        "no_presale_age_20": 181927
-      },
-      "Taichung": {
-        "all": 176129,
-        "age_10": 198327,
-        "age_20": 196116,
-        "no_presale": 170810,
-        "no_presale_age_10": 205025,
-        "no_presale_age_20": 201651
-      },
-      "Tainan": {
-        "all": 139273,
-        "age_10": 163256,
-        "age_20": 160121,
-        "no_presale": 134134,
-        "no_presale_age_10": 164093,
-        "no_presale_age_20": 160807
-      },
-      "Kaohsiung": {
-        "all": 155316,
-        "age_10": 192674,
-        "age_20": 184684,
-        "no_presale": 151886,
-        "no_presale_age_10": 190040,
-        "no_presale_age_20": 182840
-      },
-      "Hsinchu": {
-        "all": 202856,
-        "age_10": 218258,
-        "age_20": 213521,
-        "no_presale": 202651,
-        "no_presale_age_10": 221445,
-        "no_presale_age_20": 215078
-      }
-    },
-    {
-      "Quarter": "2018_Q2",
-      "Nation": {
-        "all": 191119,
-        "age_10": 220162,
-        "age_20": 212197,
-        "no_presale": 184260,
-        "no_presale_age_10": 221392,
-        "no_presale_age_20": 209855
-      },
-      "Taipei": {
-        "all": 530400,
-        "age_10": 535002,
-        "age_20": 542109,
-        "no_presale": 592102,
-        "no_presale_age_10": 646726,
-        "no_presale_age_20": 635005
-      },
-      "NewTaipei": {
-        "all": 308526,
-        "age_10": 329213,
-        "age_20": 321891,
-        "no_presale": 320949,
-        "no_presale_age_10": 356383,
-        "no_presale_age_20": 342922
-      },
-      "Taoyuan": {
-        "all": 176899,
-        "age_10": 208250,
-        "age_20": 195273,
-        "no_presale": 171608,
-        "no_presale_age_10": 196018,
-        "no_presale_age_20": 187516
-      },
-      "Taichung": {
-        "all": 180036,
-        "age_10": 213894,
-        "age_20": 208952,
-        "no_presale": 175124,
-        "no_presale_age_10": 212555,
-        "no_presale_age_20": 207412
-      },
-      "Tainan": {
-        "all": 147081,
-        "age_10": 165836,
-        "age_20": 163301,
-        "no_presale": 144122,
-        "no_presale_age_10": 164793,
-        "no_presale_age_20": 161987
-      },
-      "Kaohsiung": {
-        "all": 160701,
-        "age_10": 195544,
-        "age_20": 188605,
-        "no_presale": 158145,
-        "no_presale_age_10": 193101,
-        "no_presale_age_20": 187088
-      },
-      "Hsinchu": {
-        "all": 198420,
-        "age_10": 220066,
-        "age_20": 209527,
-        "no_presale": 195134,
-        "no_presale_age_10": 219603,
-        "no_presale_age_20": 208689
-      }
-    },
-    {
-      "Quarter": "2018_Q3",
-      "Nation": {
-        "all": 190959,
-        "age_10": 219671,
-        "age_20": 213301,
-        "no_presale": 187737,
-        "no_presale_age_10": 229425,
-        "no_presale_age_20": 217243
-      },
-      "Taipei": {
-        "all": 589355,
-        "age_10": 656387,
-        "age_20": 639223,
-        "no_presale": 572826,
-        "no_presale_age_10": 657993,
-        "no_presale_age_20": 636674
-      },
-      "NewTaipei": {
-        "all": 294843,
-        "age_10": 306304,
-        "age_20": 301421,
-        "no_presale": 313640,
-        "no_presale_age_10": 344440,
-        "no_presale_age_20": 333934
-      },
-      "Taoyuan": {
-        "all": 184964,
-        "age_10": 210542,
-        "age_20": 201572,
-        "no_presale": 177924,
-        "no_presale_age_10": 203491,
-        "no_presale_age_20": 192170
-      },
-      "Taichung": {
-        "all": 177848,
-        "age_10": 208542,
-        "age_20": 204714,
-        "no_presale": 173331,
-        "no_presale_age_10": 214469,
-        "no_presale_age_20": 209198
-      },
-      "Tainan": {
-        "all": 148412,
-        "age_10": 164731,
-        "age_20": 161615,
-        "no_presale": 139557,
-        "no_presale_age_10": 166917,
-        "no_presale_age_20": 163319
-      },
-      "Kaohsiung": {
-        "all": 151514,
-        "age_10": 188610,
-        "age_20": 183954,
-        "no_presale": 154352,
-        "no_presale_age_10": 193051,
-        "no_presale_age_20": 187096
-      },
-      "Hsinchu": {
-        "all": 204017,
-        "age_10": 224250,
-        "age_20": 218101,
-        "no_presale": 200575,
-        "no_presale_age_10": 225274,
-        "no_presale_age_20": 214694
-      }
-    },
-    {
-      "Quarter": "2018_Q4",
-      "Nation": {
-        "all": 197223,
-        "age_10": 227218,
-        "age_20": 221183,
-        "no_presale": 192327,
-        "no_presale_age_10": 230112,
-        "no_presale_age_20": 222000
-      },
-      "Taipei": {
-        "all": 652840,
-        "age_10": 737443,
-        "age_20": 725570,
-        "no_presale": 596602,
-        "no_presale_age_10": 681716,
-        "no_presale_age_20": 676840
-      },
-      "NewTaipei": {
-        "all": 301926,
-        "age_10": 315881,
-        "age_20": 310813,
-        "no_presale": 288957,
-        "no_presale_age_10": 296878,
-        "no_presale_age_20": 294271
-      },
-      "Taoyuan": {
-        "all": 179907,
-        "age_10": 202636,
-        "age_20": 194159,
-        "no_presale": 175636,
-        "no_presale_age_10": 197387,
-        "no_presale_age_20": 191048
-      },
-      "Taichung": {
-        "all": 179835,
-        "age_10": 212403,
-        "age_20": 210013,
-        "no_presale": 174698,
-        "no_presale_age_10": 226780,
-        "no_presale_age_20": 219534
-      },
-      "Tainan": {
-        "all": 140731,
-        "age_10": 160621,
-        "age_20": 157481,
-        "no_presale": 123207,
-        "no_presale_age_10": 157486,
-        "no_presale_age_20": 154099
-      },
-      "Kaohsiung": {
-        "all": 168565,
-        "age_10": 209116,
-        "age_20": 197139,
-        "no_presale": 161850,
-        "no_presale_age_10": 209481,
-        "no_presale_age_20": 196354
-      },
-      "Hsinchu": {
-        "all": 196147,
-        "age_10": 213716,
-        "age_20": 207602,
-        "no_presale": 200017,
-        "no_presale_age_10": 228240,
-        "no_presale_age_20": 218179
-      }
-    },
-    {
-      "Quarter": "2019_Q1",
-      "Nation": {
-        "all": 195550,
-        "age_10": 221891,
-        "age_20": 216613,
-        "no_presale": 189349,
-        "no_presale_age_10": 228136,
-        "no_presale_age_20": 219818
-      },
-      "Taipei": {
-        "all": 614863,
-        "age_10": 698228,
-        "age_20": 686716,
-        "no_presale": 594210,
-        "no_presale_age_10": 676555,
-        "no_presale_age_20": 663018
-      },
-      "NewTaipei": {
-        "all": 306403,
-        "age_10": 326998,
-        "age_20": 316595,
-        "no_presale": 297907,
-        "no_presale_age_10": 314076,
-        "no_presale_age_20": 304332
-      },
-      "Taoyuan": {
-        "all": 181815,
-        "age_10": 188203,
-        "age_20": 185835,
-        "no_presale": 179230,
-        "no_presale_age_10": 198402,
-        "no_presale_age_20": 192050
-      },
-      "Taichung": {
-        "all": 183577,
-        "age_10": 209395,
-        "age_20": 208565,
-        "no_presale": 176253,
-        "no_presale_age_10": 220364,
-        "no_presale_age_20": 216668
-      },
-      "Tainan": {
-        "all": 147018,
-        "age_10": 168674,
-        "age_20": 165365,
-        "no_presale": 128545,
-        "no_presale_age_10": 159531,
-        "no_presale_age_20": 154891
-      },
-      "Kaohsiung": {
-        "all": 159653,
-        "age_10": 191299,
-        "age_20": 187278,
-        "no_presale": 156536,
-        "no_presale_age_10": 192674,
-        "no_presale_age_20": 186740
-      },
-      "Hsinchu": {
-        "all": 220314,
-        "age_10": 240638,
-        "age_20": 234017,
-        "no_presale": 206327,
-        "no_presale_age_10": 234069,
-        "no_presale_age_20": 222327
-      }
-    },
-    {
-      "Quarter": "2019_Q2",
-      "Nation": {
-        "all": 194995,
-        "age_10": 224823,
-        "age_20": 219421,
-        "no_presale": 189792,
-        "no_presale_age_10": 228754,
-        "no_presale_age_20": 219798
-      },
-      "Taipei": {
-        "all": 631018,
-        "age_10": 693324,
-        "age_20": 681934,
-        "no_presale": 618007,
-        "no_presale_age_10": 703126,
-        "no_presale_age_20": 684990
-      },
-      "NewTaipei": {
-        "all": 317987,
-        "age_10": 336926,
-        "age_20": 328711,
-        "no_presale": 310005,
-        "no_presale_age_10": 326114,
-        "no_presale_age_20": 317987
-      },
-      "Taoyuan": {
-        "all": 182783,
-        "age_10": 195694,
-        "age_20": 191656,
-        "no_presale": 181093,
-        "no_presale_age_10": 201253,
-        "no_presale_age_20": 195433
-      },
-      "Taichung": {
-        "all": 193820,
-        "age_10": 237170,
-        "age_20": 231342,
-        "no_presale": 180312,
-        "no_presale_age_10": 217415,
-        "no_presale_age_20": 214792
-      },
-      "Tainan": {
-        "all": 150207,
-        "age_10": 172235,
-        "age_20": 168615,
-        "no_presale": 134451,
-        "no_presale_age_10": 167030,
-        "no_presale_age_20": 162408
-      },
-      "Kaohsiung": {
-        "all": 158150,
-        "age_10": 177719,
-        "age_20": 177498,
-        "no_presale": 162668,
-        "no_presale_age_10": 192914,
-        "no_presale_age_20": 187544
-      },
-      "Hsinchu": {
-        "all": 199825,
-        "age_10": 217861,
-        "age_20": 211421,
-        "no_presale": 196030,
-        "no_presale_age_10": 223316,
-        "no_presale_age_20": 212764
-      }
-    },
-    {
-      "Quarter": "2019_Q3",
-      "Nation": {
-        "all": 195559,
-        "age_10": 222225,
-        "age_20": 217603,
-        "no_presale": 191144,
-        "no_presale_age_10": 228069,
-        "no_presale_age_20": 219855
-      },
-      "Taipei": {
-        "all": 622574,
-        "age_10": 691405,
-        "age_20": 685524,
-        "no_presale": 629899,
-        "no_presale_age_10": 712332,
-        "no_presale_age_20": 701874
-      },
-      "NewTaipei": {
-        "all": 307405,
-        "age_10": 329569,
-        "age_20": 323276,
-        "no_presale": 314489,
-        "no_presale_age_10": 357636,
-        "no_presale_age_20": 339241
-      },
-      "Taoyuan": {
-        "all": 185802,
-        "age_10": 194179,
-        "age_20": 191782,
-        "no_presale": 181273,
-        "no_presale_age_10": 196869,
-        "no_presale_age_20": 192250
-      },
-      "Taichung": {
-        "all": 189240,
-        "age_10": 222552,
-        "age_20": 221007,
-        "no_presale": 182489,
-        "no_presale_age_10": 224479,
-        "no_presale_age_20": 221055
-      },
-      "Tainan": {
-        "all": 151066,
-        "age_10": 185048,
-        "age_20": 180813,
-        "no_presale": 144307,
-        "no_presale_age_10": 187765,
-        "no_presale_age_20": 183089
-      },
-      "Kaohsiung": {
-        "all": 163428,
-        "age_10": 189717,
-        "age_20": 187322,
-        "no_presale": 161640,
-        "no_presale_age_10": 189613,
-        "no_presale_age_20": 186912
-      },
-      "Hsinchu": {
-        "all": 180911,
-        "age_10": 187871,
-        "age_20": 187501,
-        "no_presale": 194650,
-        "no_presale_age_10": 220188,
-        "no_presale_age_20": 210463
-      }
-    },
-    {
-      "Quarter": "2019_Q4",
-      "Nation": {
-        "all": 201987,
-        "age_10": 231851,
-        "age_20": 227613,
-        "no_presale": 197117,
-        "no_presale_age_10": 238704,
-        "no_presale_age_20": 230820
-      },
-      "Taipei": {
-        "all": 625483,
-        "age_10": 679704,
-        "age_20": 670217,
-        "no_presale": 625483,
-        "no_presale_age_10": 693663,
-        "no_presale_age_20": 683066
-      },
-      "NewTaipei": {
-        "all": 339967,
-        "age_10": 367873,
-        "age_20": 360483,
-        "no_presale": 325995,
-        "no_presale_age_10": 362977,
-        "no_presale_age_20": 349818
-      },
-      "Taoyuan": {
-        "all": 190066,
-        "age_10": 208625,
-        "age_20": 203821,
-        "no_presale": 185853,
-        "no_presale_age_10": 204750,
-        "no_presale_age_20": 199823
-      },
-      "Taichung": {
-        "all": 190112,
-        "age_10": 209225,
-        "age_20": 210175,
-        "no_presale": 187881,
-        "no_presale_age_10": 235245,
-        "no_presale_age_20": 230802
-      },
-      "Tainan": {
-        "all": 149618,
-        "age_10": 172731,
-        "age_20": 170405,
-        "no_presale": 139526,
-        "no_presale_age_10": 183094,
-        "no_presale_age_20": 178035
-      },
-      "Kaohsiung": {
-        "all": 163684,
-        "age_10": 189752,
-        "age_20": 188603,
-        "no_presale": 161683,
-        "no_presale_age_10": 204721,
-        "no_presale_age_20": 198478
-      },
-      "Hsinchu": {
-        "all": 192587,
-        "age_10": 218334,
-        "age_20": 209689,
-        "no_presale": 197461,
-        "no_presale_age_10": 225878,
-        "no_presale_age_20": 213937
-      }
-    },
-    {
-      "Quarter": "2020_Q1",
-      "Nation": {
-        "all": 213607,
-        "age_10": 241012,
-        "age_20": 236830,
-        "no_presale": 200026,
-        "no_presale_age_10": 242469,
-        "no_presale_age_20": 234502
-      },
-      "Taipei": {
-        "all": 638706,
-        "age_10": 707183,
-        "age_20": 699309,
-        "no_presale": 632569,
-        "no_presale_age_10": 705942,
-        "no_presale_age_20": 696460
-      },
-      "NewTaipei": {
-        "all": 336704,
-        "age_10": 373193,
-        "age_20": 361412,
-        "no_presale": 331952,
-        "no_presale_age_10": 369957,
-        "no_presale_age_20": 357349
-      },
-      "Taoyuan": {
-        "all": 205489,
-        "age_10": 226974,
-        "age_20": 220364,
-        "no_presale": 194499,
-        "no_presale_age_10": 220704,
-        "no_presale_age_20": 213147
-      },
-      "Taichung": {
-        "all": 200260,
-        "age_10": 228043,
-        "age_20": 227501,
-        "no_presale": 186377,
-        "no_presale_age_10": 227430,
-        "no_presale_age_20": 226400
-      },
-      "Tainan": {
-        "all": 147491,
-        "age_10": 173061,
-        "age_20": 167962,
-        "no_presale": 137694,
-        "no_presale_age_10": 173231,
-        "no_presale_age_20": 167326
-      },
-      "Kaohsiung": {
-        "all": 165002,
-        "age_10": 199894,
-        "age_20": 196021,
-        "no_presale": 159683,
-        "no_presale_age_10": 210469,
-        "no_presale_age_20": 201372
-      },
-      "Hsinchu": {
-        "all": 221012,
-        "age_10": 233509,
-        "age_20": 229572,
-        "no_presale": 204235,
-        "no_presale_age_10": 229494,
-        "no_presale_age_20": 222453
-      }
-    },
-    {
-      "Quarter": "2020_Q2",
-      "Nation": {
-        "all": 206261,
-        "age_10": 231646,
-        "age_20": 228499,
-        "no_presale": 198641,
-        "no_presale_age_10": 239144,
-        "no_presale_age_20": 233379
-      },
-      "Taipei": {
-        "all": 624821,
-        "age_10": 678064,
-        "age_20": 668337,
-        "no_presale": 624846,
-        "no_presale_age_10": 695126,
-        "no_presale_age_20": 686060
-      },
-      "NewTaipei": {
-        "all": 335150,
-        "age_10": 366423,
-        "age_20": 355269,
-        "no_presale": 327456,
-        "no_presale_age_10": 370888,
-        "no_presale_age_20": 354783
-      },
-      "Taoyuan": {
-        "all": 201972,
-        "age_10": 220278,
-        "age_20": 215365,
-        "no_presale": 192648,
-        "no_presale_age_10": 213507,
-        "no_presale_age_20": 208281
-      },
-      "Taichung": {
-        "all": 199160,
-        "age_10": 217742,
-        "age_20": 218443,
-        "no_presale": 186405,
-        "no_presale_age_10": 221932,
-        "no_presale_age_20": 222737
-      },
-      "Tainan": {
-        "all": 148083,
-        "age_10": 182575,
-        "age_20": 178460,
-        "no_presale": 135345,
-        "no_presale_age_10": 176397,
-        "no_presale_age_20": 172754
-      },
-      "Kaohsiung": {
-        "all": 161164,
-        "age_10": 192742,
-        "age_20": 191035,
-        "no_presale": 161164,
-        "no_presale_age_10": 217636,
-        "no_presale_age_20": 203835
-      },
-      "Hsinchu": {
-        "all": 192081,
-        "age_10": 207140,
-        "age_20": 205317,
-        "no_presale": 209233,
-        "no_presale_age_10": 232030,
-        "no_presale_age_20": 225210
-      }
-    },
-    {
-      "Quarter": "2020_Q3",
-      "Nation": {
-        "all": 208679,
-        "age_10": 235498,
-        "age_20": 232754,
-        "no_presale": 204443,
-        "no_presale_age_10": 247002,
-        "no_presale_age_20": 240683
-      },
-      "Taipei": {
-        "all": 630835,
-        "age_10": 688486,
-        "age_20": 682995,
-        "no_presale": 630876,
-        "no_presale_age_10": 690529,
-        "no_presale_age_20": 686172
-      },
-      "NewTaipei": {
-        "all": 344610,
-        "age_10": 382410,
-        "age_20": 367154,
-        "no_presale": 330321,
-        "no_presale_age_10": 370483,
-        "no_presale_age_20": 353058
-      },
-      "Taoyuan": {
-        "all": 196995,
-        "age_10": 219306,
-        "age_20": 213974,
-        "no_presale": 192640,
-        "no_presale_age_10": 220869,
-        "no_presale_age_20": 211803
-      },
-      "Taichung": {
-        "all": 201843,
-        "age_10": 227696,
-        "age_20": 228147,
-        "no_presale": 191752,
-        "no_presale_age_10": 230159,
-        "no_presale_age_20": 230443
-      },
-      "Tainan": {
-        "all": 148714,
-        "age_10": 186777,
-        "age_20": 185864,
-        "no_presale": 141689,
-        "no_presale_age_10": 190149,
-        "no_presale_age_20": 186737
-      },
-      "Kaohsiung": {
-        "all": 168709,
-        "age_10": 198023,
-        "age_20": 197570,
-        "no_presale": 169740,
-        "no_presale_age_10": 215635,
-        "no_presale_age_20": 208383
-      },
-      "Hsinchu": {
-        "all": 203157,
-        "age_10": 225331,
-        "age_20": 221012,
-        "no_presale": 206203,
-        "no_presale_age_10": 232740,
-        "no_presale_age_20": 225091
-      }
-    },
-    {
-      "Quarter": "2020_Q4",
-      "Nation": {
-        "all": 213306,
-        "age_10": 243117,
-        "age_20": 240456,
-        "no_presale": 211835,
-        "no_presale_age_10": 251134,
-        "no_presale_age_20": 246995
-      },
-      "Taipei": {
-        "all": 649702,
-        "age_10": 723526,
-        "age_20": 713263,
-        "no_presale": 643174,
-        "no_presale_age_10": 708896,
-        "no_presale_age_20": 701669
-      },
-      "NewTaipei": {
-        "all": 352937,
-        "age_10": 386876,
-        "age_20": 377273,
-        "no_presale": 344536,
-        "no_presale_age_10": 383306,
-        "no_presale_age_20": 370886
-      },
-      "Taoyuan": {
-        "all": 198364,
-        "age_10": 226516,
-        "age_20": 219093,
-        "no_presale": 198195,
-        "no_presale_age_10": 229527,
-        "no_presale_age_20": 219455
-      },
-      "Taichung": {
-        "all": 207593,
-        "age_10": 230602,
-        "age_20": 231271,
-        "no_presale": 198375,
-        "no_presale_age_10": 233673,
-        "no_presale_age_20": 234383
-      },
-      "Tainan": {
-        "all": 152939,
-        "age_10": 196271,
-        "age_20": 192727,
-        "no_presale": 153068,
-        "no_presale_age_10": 201094,
-        "no_presale_age_20": 197081
-      },
-      "Kaohsiung": {
-        "all": 175536,
-        "age_10": 199507,
-        "age_20": 198433,
-        "no_presale": 172564,
-        "no_presale_age_10": 208083,
-        "no_presale_age_20": 203587
-      },
-      "Hsinchu": {
-        "all": 221736,
-        "age_10": 254440,
-        "age_20": 245595,
-        "no_presale": 220471,
-        "no_presale_age_10": 253702,
-        "no_presale_age_20": 243583
-      }
-    },
-    {
-      "Quarter": "2021_Q1",
-      "Nation": {
-        "all": 214684,
-        "age_10": 241332,
-        "age_20": 239942,
-        "no_presale": 213220,
-        "no_presale_age_10": 252463,
-        "no_presale_age_20": 247812
-      },
-      "Taipei": {
-        "all": 652638,
-        "age_10": 698726,
-        "age_20": 701779,
-        "no_presale": 647613,
-        "no_presale_age_10": 704621,
-        "no_presale_age_20": 710400
-      },
-      "NewTaipei": {
-        "all": 341931,
-        "age_10": 380393,
-        "age_20": 370820,
-        "no_presale": 343226,
-        "no_presale_age_10": 390142,
-        "no_presale_age_20": 375266
-      },
-      "Taoyuan": {
-        "all": 198423,
-        "age_10": 227557,
-        "age_20": 219527,
-        "no_presale": 195633,
-        "no_presale_age_10": 226407,
-        "no_presale_age_20": 217055
-      },
-      "Taichung": {
-        "all": 206972,
-        "age_10": 232256,
-        "age_20": 233934,
-        "no_presale": 204621,
-        "no_presale_age_10": 236615,
-        "no_presale_age_20": 238585
-      },
-      "Tainan": {
-        "all": 158572,
-        "age_10": 203944,
-        "age_20": 196117,
-        "no_presale": 158878,
-        "no_presale_age_10": 204972,
-        "no_presale_age_20": 198274
-      },
-      "Kaohsiung": {
-        "all": 178506,
-        "age_10": 202324,
-        "age_20": 203124,
-        "no_presale": 172810,
-        "no_presale_age_10": 194671,
-        "no_presale_age_20": 199372
-      },
-      "Hsinchu": {
-        "all": 211488,
-        "age_10": 239499,
-        "age_20": 234714,
-        "no_presale": 219676,
-        "no_presale_age_10": 257243,
-        "no_presale_age_20": 248757
-      }
-    },
-    {
-      "Quarter": "2021_Q2",
-      "Nation": {
-        "all": 219960,
-        "age_10": 249478,
-        "age_20": 248050,
-        "no_presale": 219646,
-        "no_presale_age_10": 257704,
-        "no_presale_age_20": 253441
-      },
-      "Taipei": {
-        "all": 670041,
-        "age_10": 743608,
-        "age_20": 736036,
-        "no_presale": 655230,
-        "no_presale_age_10": 735012,
-        "no_presale_age_20": 720112
-      },
-      "NewTaipei": {
-        "all": 346455,
-        "age_10": 399117,
-        "age_20": 378550,
-        "no_presale": 345056,
-        "no_presale_age_10": 399283,
-        "no_presale_age_20": 376674
-      },
-      "Taoyuan": {
-        "all": 203081,
-        "age_10": 233122,
-        "age_20": 223921,
-        "no_presale": 198403,
-        "no_presale_age_10": 229147,
-        "no_presale_age_20": 219762
-      },
-      "Taichung": {
-        "all": 215914,
-        "age_10": 248428,
-        "age_20": 250765,
-        "no_presale": 213405,
-        "no_presale_age_10": 249169,
-        "no_presale_age_20": 252162
-      },
-      "Tainan": {
-        "all": 178803,
-        "age_10": 193418,
-        "age_20": 192952,
-        "no_presale": 166350,
-        "no_presale_age_10": 215845,
-        "no_presale_age_20": 213359
-      },
-      "Kaohsiung": {
-        "all": 187498,
-        "age_10": 205334,
-        "age_20": 206502,
-        "no_presale": 191455,
-        "no_presale_age_10": 219931,
-        "no_presale_age_20": 217808
-      },
-      "Hsinchu": {
-        "all": 251174,
-        "age_10": 258552,
-        "age_20": 257150,
-        "no_presale": 241911,
-        "no_presale_age_10": 276889,
-        "no_presale_age_20": 267898
-      }
-    },
-    {
-      "Quarter": "2021_Q3",
-      "Nation": {
-        "all": 214904,
-        "age_10": 240651,
-        "age_20": 243160,
-        "no_presale": 222833,
-        "no_presale_age_10": 259888,
-        "no_presale_age_20": 258529
-      },
-      "Taipei": {
-        "all": 657207,
-        "age_10": 730636,
-        "age_20": 729798,
-        "no_presale": 652436,
-        "no_presale_age_10": 724790,
-        "no_presale_age_20": 725162
-      },
-      "NewTaipei": {
-        "all": 353679,
-        "age_10": 391170,
-        "age_20": 379544,
-        "no_presale": 347893,
-        "no_presale_age_10": 385906,
-        "no_presale_age_20": 369969
-      },
-      "Taoyuan": {
-        "all": 196235,
-        "age_10": 220924,
-        "age_20": 220706,
-        "no_presale": 196235,
-        "no_presale_age_10": 220924,
-        "no_presale_age_20": 220706
-      },
-      "Taichung": {
-        "all": 215782,
-        "age_10": 245861,
-        "age_20": 248473,
-        "no_presale": 215316,
-        "no_presale_age_10": 257104,
-        "no_presale_age_20": 257170
-      },
-      "Tainan": {
-        "all": 178048,
-        "age_10": 182484,
-        "age_20": 182517,
-        "no_presale": 167155,
-        "no_presale_age_10": 213443,
-        "no_presale_age_20": 208532
-      },
-      "Kaohsiung": {
-        "all": 188198,
-        "age_10": 201636,
-        "age_20": 203294,
-        "no_presale": 190737,
-        "no_presale_age_10": 211964,
-        "no_presale_age_20": 212269
-      },
-      "Hsinchu": {
-        "all": 239018,
-        "age_10": 270916,
-        "age_20": 265170,
-        "no_presale": 233636,
-        "no_presale_age_10": 284800,
-        "no_presale_age_20": 276545
-      }
-    },
-    {
-      "Quarter": "2021_Q4",
-      "Nation": {
-        "all": 230040,
-        "age_10": 257445,
-        "age_20": 256901,
-        "no_presale": 230040,
-        "no_presale_age_10": 265765,
-        "no_presale_age_20": 263306
-      },
-      "Taipei": {
-        "all": 699997,
-        "age_10": 790425,
-        "age_20": 779276,
-        "no_presale": 687164,
-        "no_presale_age_10": 778511,
-        "no_presale_age_20": 762919
-      },
-      "NewTaipei": {
-        "all": 365167,
-        "age_10": 400109,
-        "age_20": 388258,
-        "no_presale": 353177,
-        "no_presale_age_10": 395934,
-        "no_presale_age_20": 380519
-      },
-      "Taoyuan": {
-        "all": 214076,
-        "age_10": 247939,
-        "age_20": 237855,
-        "no_presale": 206554,
-        "no_presale_age_10": 231167,
-        "no_presale_age_20": 226979
-      },
-      "Taichung": {
-        "all": 224056,
-        "age_10": 251230,
-        "age_20": 253653,
-        "no_presale": 222944,
-        "no_presale_age_10": 260565,
-        "no_presale_age_20": 262850
-      },
-      "Tainan": {
-        "all": 178876,
-        "age_10": 194625,
-        "age_20": 196053,
-        "no_presale": 179932,
-        "no_presale_age_10": 228669,
-        "no_presale_age_20": 227519
-      },
-      "Kaohsiung": {
-        "all": 208180,
-        "age_10": 221124,
-        "age_20": 221600,
-        "no_presale": 208395,
-        "no_presale_age_10": 233864,
-        "no_presale_age_20": 231967
-      },
-      "Hsinchu": {
-        "all": 237838,
-        "age_10": 298347,
-        "age_20": 287957,
-        "no_presale": 247537,
-        "no_presale_age_10": 312327,
-        "no_presale_age_20": 296945
-      }
-    },
-    {
-      "Quarter": "2022_Q1",
-      "Nation": {
-        "all": 244317,
-        "age_10": 271020,
-        "age_20": 271263,
-        "no_presale": 244417,
-        "no_presale_age_10": 278251,
-        "no_presale_age_20": 277301
-      },
-      "Taipei": {
-        "all": 693650,
-        "age_10": 798111,
-        "age_20": 783339,
-        "no_presale": 693613,
-        "no_presale_age_10": 801983,
-        "no_presale_age_20": 785126
-      },
-      "NewTaipei": {
-        "all": 371775,
-        "age_10": 396364,
-        "age_20": 389273,
-        "no_presale": 371407,
-        "no_presale_age_10": 414998,
-        "no_presale_age_20": 400927
-      },
-      "Taoyuan": {
-        "all": 220660,
-        "age_10": 247755,
-        "age_20": 241623,
-        "no_presale": 220896,
-        "no_presale_age_10": 248694,
-        "no_presale_age_20": 241934
-      },
-      "Taichung": {
-        "all": 238714,
-        "age_10": 278107,
-        "age_20": 279993,
-        "no_presale": 236461,
-        "no_presale_age_10": 278484,
-        "no_presale_age_20": 280998
-      },
-      "Tainan": {
-        "all": 189552,
-        "age_10": 235279,
-        "age_20": 232496,
-        "no_presale": 191111,
-        "no_presale_age_10": 241656,
-        "no_presale_age_20": 236635
-      },
-      "Kaohsiung": {
-        "all": 230479,
-        "age_10": 246602,
-        "age_20": 245959,
-        "no_presale": 231828,
-        "no_presale_age_10": 254625,
-        "no_presale_age_20": 253035
-      },
-      "Hsinchu": {
-        "all": 231821,
-        "age_10": 279448,
-        "age_20": 277524,
-        "no_presale": 247021,
-        "no_presale_age_10": 341888,
-        "no_presale_age_20": 326583
-      }
-    },
-    {
-      "Quarter": "2022_Q2",
-      "Nation": {
-        "all": 252428,
-        "age_10": 286464,
-        "age_20": 285626,
-        "no_presale": 252817,
-        "no_presale_age_10": 297425,
-        "no_presale_age_20": 294050
-      },
-      "Taipei": {
-        "all": 725329,
-        "age_10": 791921,
-        "age_20": 788073,
-        "no_presale": 730879,
-        "no_presale_age_10": 843817,
-        "no_presale_age_20": 809808
-      },
-      "NewTaipei": {
-        "all": 382585,
-        "age_10": 427945,
-        "age_20": 411869,
-        "no_presale": 388339,
-        "no_presale_age_10": 441349,
-        "no_presale_age_20": 424592
-      },
-      "Taoyuan": {
-        "all": 228365,
-        "age_10": 260579,
-        "age_20": 252288,
-        "no_presale": 226423,
-        "no_presale_age_10": 255208,
-        "no_presale_age_20": 249200
-      },
-      "Taichung": {
-        "all": 248502,
-        "age_10": 302663,
-        "age_20": 301940,
-        "no_presale": 246298,
-        "no_presale_age_10": 302945,
-        "no_presale_age_20": 302030
-      },
-      "Tainan": {
-        "all": 187045,
-        "age_10": 239005,
-        "age_20": 234036,
-        "no_presale": 191547,
-        "no_presale_age_10": 256390,
-        "no_presale_age_20": 250331
-      },
-      "Kaohsiung": {
-        "all": 235736,
-        "age_10": 255253,
-        "age_20": 254992,
-        "no_presale": 240579,
-        "no_presale_age_10": 270188,
-        "no_presale_age_20": 267745
-      },
-      "Hsinchu": {
-        "all": 243236,
-        "age_10": 277127,
-        "age_20": 290086,
-        "no_presale": 272610,
-        "no_presale_age_10": 372076,
-        "no_presale_age_20": 355936
-      }
-    },
-    {
-      "Quarter": "2022_Q3",
-      "Nation": {
-        "all": 258598,
-        "age_10": 302628,
-        "age_20": 301554,
-        "no_presale": 254760,
-        "no_presale_age_10": 302651,
-        "no_presale_age_20": 301441
-      },
-      "Taipei": {
-        "all": 711456,
-        "age_10": 821299,
-        "age_20": 800526,
-        "no_presale": 701577,
-        "no_presale_age_10": 828661,
-        "no_presale_age_20": 794395
-      },
-      "NewTaipei": {
-        "all": 394757,
-        "age_10": 464532,
-        "age_20": 446595,
-        "no_presale": 383322,
-        "no_presale_age_10": 447987,
-        "no_presale_age_20": 427498
-      },
-      "Taoyuan": {
-        "all": 238828,
-        "age_10": 282208,
-        "age_20": 267902,
-        "no_presale": 232615,
-        "no_presale_age_10": 267527,
-        "no_presale_age_20": 257904
-      },
-      "Taichung": {
-        "all": 255273,
-        "age_10": 296046,
-        "age_20": 298248,
-        "no_presale": 251392,
-        "no_presale_age_10": 305504,
-        "no_presale_age_20": 306068
-      },
-      "Tainan": {
-        "all": 195279,
-        "age_10": 254154,
-        "age_20": 252939,
-        "no_presale": 198532,
-        "no_presale_age_10": 262291,
-        "no_presale_age_20": 261064
-      },
-      "Kaohsiung": {
-        "all": 228410,
-        "age_10": 263934,
-        "age_20": 263917,
-        "no_presale": 238215,
-        "no_presale_age_10": 274704,
-        "no_presale_age_20": 273104
-      },
-      "Hsinchu": {
-        "all": 288145,
-        "age_10": 385203,
-        "age_20": 371144,
-        "no_presale": 274833,
-        "no_presale_age_10": 366102,
-        "no_presale_age_20": 349405
-      }
-    },
-    {
-      "Quarter": "2022_Q4",
-      "Nation": {
-        "all": 254040,
-        "age_10": 287517,
-        "age_20": 290435,
-        "no_presale": 257309,
-        "no_presale_age_10": 305841,
-        "no_presale_age_20": 305015
-      },
-      "Taipei": {
-        "all": 725408,
-        "age_10": 829223,
-        "age_20": 803094,
-        "no_presale": 717869,
-        "no_presale_age_10": 803197,
-        "no_presale_age_20": 791998
-      },
-      "NewTaipei": {
-        "all": 382684,
-        "age_10": 431651,
-        "age_20": 418390,
-        "no_presale": 381281,
-        "no_presale_age_10": 449719,
-        "no_presale_age_20": 422091
-      },
-      "Taoyuan": {
-        "all": 233653,
-        "age_10": 273656,
-        "age_20": 264917,
-        "no_presale": 236443,
-        "no_presale_age_10": 281278,
-        "no_presale_age_20": 268621
-      },
-      "Taichung": {
-        "all": 254912,
-        "age_10": 287590,
-        "age_20": 290007,
-        "no_presale": 251240,
-        "no_presale_age_10": 296364,
-        "no_presale_age_20": 300377
-      },
-      "Tainan": {
-        "all": 194367,
-        "age_10": 251329,
-        "age_20": 248825,
-        "no_presale": 201947,
-        "no_presale_age_10": 268909,
-        "no_presale_age_20": 266393
-      },
-      "Kaohsiung": {
-        "all": 244939,
-        "age_10": 282036,
-        "age_20": 278484,
-        "no_presale": 249808,
-        "no_presale_age_10": 294149,
-        "no_presale_age_20": 288529
-      },
-      "Hsinchu": {
-        "all": 247788,
-        "age_10": 251316,
-        "age_20": 291749,
-        "no_presale": 305517,
-        "no_presale_age_10": 394240,
-        "no_presale_age_20": 383336
-      }
-    },
-    {
-      "Quarter": "2023_Q1",
-      "Nation": {
-        "all": 256985,
-        "age_10": 290638,
-        "age_20": 293084,
-        "no_presale": 257091,
-        "no_presale_age_10": 299607,
-        "no_presale_age_20": 300013
-      },
-      "Taipei": {
-        "all": 718944,
-        "age_10": 826017,
-        "age_20": 807198,
-        "no_presale": 714656,
-        "no_presale_age_10": 832850,
-        "no_presale_age_20": 811607
-      },
-      "NewTaipei": {
-        "all": 399666,
-        "age_10": 465121,
-        "age_20": 440911,
-        "no_presale": 385759,
-        "no_presale_age_10": 459479,
-        "no_presale_age_20": 427157
-      },
-      "Taoyuan": {
-        "all": 236671,
-        "age_10": 272155,
-        "age_20": 264820,
-        "no_presale": 235474,
-        "no_presale_age_10": 269428,
-        "no_presale_age_20": 262780
-      },
-      "Taichung": {
-        "all": 260855,
-        "age_10": 295398,
-        "age_20": 298663,
-        "no_presale": 258299,
-        "no_presale_age_10": 301066,
-        "no_presale_age_20": 305775
-      },
-      "Tainan": {
-        "all": 199511,
-        "age_10": 259838,
-        "age_20": 255564,
-        "no_presale": 201208,
-        "no_presale_age_10": 280192,
-        "no_presale_age_20": 272932
-      },
-      "Kaohsiung": {
-        "all": 225322,
-        "age_10": 274264,
-        "age_20": 272552,
-        "no_presale": 227507,
-        "no_presale_age_10": 281021,
-        "no_presale_age_20": 276727
-      },
-      "Hsinchu": {
-        "all": 285580,
-        "age_10": 310539,
-        "age_20": 318787,
-        "no_presale": 290985,
-        "no_presale_age_10": 379084,
-        "no_presale_age_20": 373174
-      }
-    },
-    {
-      "Quarter": "2023_Q2",
-      "Nation": {
-        "all": 260570,
-        "age_10": 292681,
-        "age_20": 295527,
-        "no_presale": 262446,
-        "no_presale_age_10": 305679,
-        "no_presale_age_20": 305988
-      },
-      "Taipei": {
-        "all": 727177,
-        "age_10": 859537,
-        "age_20": 819967,
-        "no_presale": 725985,
-        "no_presale_age_10": 870707,
-        "no_presale_age_20": 818678
-      },
-      "NewTaipei": {
-        "all": 397931,
-        "age_10": 460036,
-        "age_20": 432993,
-        "no_presale": 398063,
-        "no_presale_age_10": 473562,
-        "no_presale_age_20": 436236
-      },
-      "Taoyuan": {
-        "all": 246630,
-        "age_10": 284625,
-        "age_20": 275342,
-        "no_presale": 246407,
-        "no_presale_age_10": 285051,
-        "no_presale_age_20": 274917
-      },
-      "Taichung": {
-        "all": 262379,
-        "age_10": 292681,
-        "age_20": 295498,
-        "no_presale": 256258,
-        "no_presale_age_10": 302106,
-        "no_presale_age_20": 306017
-      },
-      "Tainan": {
-        "all": 205329,
-        "age_10": 263514,
-        "age_20": 257107,
-        "no_presale": 210304,
-        "no_presale_age_10": 280169,
-        "no_presale_age_20": 272803
-      },
-      "Kaohsiung": {
-        "all": 239491,
-        "age_10": 270800,
-        "age_20": 271339,
-        "no_presale": 246820,
-        "no_presale_age_10": 283124,
-        "no_presale_age_20": 280463
-      },
-      "Hsinchu": {
-        "all": 305894,
-        "age_10": 350418,
-        "age_20": 353302,
-        "no_presale": 309726,
-        "no_presale_age_10": 371415,
-        "no_presale_age_20": 372000
-      }
-    },
-    {
-      "Quarter": "2023_Q3",
-      "Nation": {
-        "all": 262093,
-        "age_10": 300498,
-        "age_20": 304069,
-        "no_presale": 263539,
-        "no_presale_age_10": 308089,
-        "no_presale_age_20": 309527
-      },
-      "Taipei": {
-        "all": 732129,
-        "age_10": 837220,
-        "age_20": 814309,
-        "no_presale": 732309,
-        "no_presale_age_10": 833448,
-        "no_presale_age_20": 812450
-      },
-      "NewTaipei": {
-        "all": 387392,
-        "age_10": 469907,
-        "age_20": 435554,
-        "no_presale": 374534,
-        "no_presale_age_10": 458532,
-        "no_presale_age_20": 415681
-      },
-      "Taoyuan": {
-        "all": 251504,
-        "age_10": 296648,
-        "age_20": 285241,
-        "no_presale": 252522,
-        "no_presale_age_10": 299572,
-        "no_presale_age_20": 287739
-      },
-      "Taichung": {
-        "all": 265157,
-        "age_10": 307309,
-        "age_20": 310886,
-        "no_presale": 265881,
-        "no_presale_age_10": 313555,
-        "no_presale_age_20": 315412
-      },
-      "Tainan": {
-        "all": 204807,
-        "age_10": 262316,
-        "age_20": 256598,
-        "no_presale": 207780,
-        "no_presale_age_10": 276610,
-        "no_presale_age_20": 273724
-      },
-      "Kaohsiung": {
-        "all": 218674,
-        "age_10": 264810,
-        "age_20": 266939,
-        "no_presale": 218783,
-        "no_presale_age_10": 268268,
-        "no_presale_age_20": 270988
-      },
-      "Hsinchu": {
-        "all": 313911,
-        "age_10": 357924,
-        "age_20": 364615,
-        "no_presale": 348734,
-        "no_presale_age_10": 410493,
-        "no_presale_age_20": 397402
-      }
-    },
-    {
-      "Quarter": "2023_Q4",
-      "Nation": {
-        "all": 279891,
-        "age_10": 310193,
-        "age_20": 312648,
-        "no_presale": 281223,
-        "no_presale_age_10": 317296,
-        "no_presale_age_20": 318678
-      },
-      "Taipei": {
-        "all": 760357,
-        "age_10": 901726,
-        "age_20": 863712,
-        "no_presale": 760833,
-        "no_presale_age_10": 900294,
-        "no_presale_age_20": 863699
-      },
-      "NewTaipei": {
-        "all": 406421,
-        "age_10": 454969,
-        "age_20": 441888,
-        "no_presale": 407388,
-        "no_presale_age_10": 487312,
-        "no_presale_age_20": 460268
-      },
-      "Taoyuan": {
-        "all": 262314,
-        "age_10": 311732,
-        "age_20": 295987,
-        "no_presale": 261736,
-        "no_presale_age_10": 312532,
-        "no_presale_age_20": 296357
-      },
-      "Taichung": {
-        "all": 273813,
-        "age_10": 312324,
-        "age_20": 313074,
-        "no_presale": 272522,
-        "no_presale_age_10": 316317,
-        "no_presale_age_20": 316959
-      },
-      "Tainan": {
-        "all": 221600,
-        "age_10": 270339,
-        "age_20": 267739,
-        "no_presale": 221428,
-        "no_presale_age_10": 278374,
-        "no_presale_age_20": 275390
-      },
-      "Kaohsiung": {
-        "all": 260380,
-        "age_10": 284579,
-        "age_20": 283355,
-        "no_presale": 262894,
-        "no_presale_age_10": 288643,
-        "no_presale_age_20": 286013
-      },
-      "Hsinchu": {
-        "all": 351628,
-        "age_10": 409089,
-        "age_20": 403992,
-        "no_presale": 378340,
-        "no_presale_age_10": 441036,
-        "no_presale_age_20": 421998
-      }
-    },
-    {
-      "Quarter": "2024_Q1",
-      "Nation": {
-        "all": 284038,
-        "age_10": 315782,
-        "age_20": 319795,
-        "no_presale": 286023,
-        "no_presale_age_10": 322060,
-        "no_presale_age_20": 324909
-      },
-      "Taipei": {
-        "all": 757817,
-        "age_10": 899666,
-        "age_20": 867091,
-        "no_presale": 762752,
-        "no_presale_age_10": 910149,
-        "no_presale_age_20": 869098
-      },
-      "NewTaipei": {
-        "all": 409625,
-        "age_10": 456860,
-        "age_20": 448817,
-        "no_presale": 421179,
-        "no_presale_age_10": 496770,
-        "no_presale_age_20": 474050
-      },
-      "Taoyuan": {
-        "all": 264810,
-        "age_10": 321107,
-        "age_20": 305048,
-        "no_presale": 263960,
-        "no_presale_age_10": 319855,
-        "no_presale_age_20": 303990
-      },
-      "Taichung": {
-        "all": 283598,
-        "age_10": 331423,
-        "age_20": 334098,
-        "no_presale": 283451,
-        "no_presale_age_10": 334965,
-        "no_presale_age_20": 336744
-      },
-      "Tainan": {
-        "all": 230770,
-        "age_10": 290628,
-        "age_20": 288975,
-        "no_presale": 231408,
-        "no_presale_age_10": 299046,
-        "no_presale_age_20": 292299
-      },
-      "Kaohsiung": {
-        "all": 268436,
-        "age_10": 293369,
-        "age_20": 292357,
-        "no_presale": 273041,
-        "no_presale_age_10": 299245,
-        "no_presale_age_20": 296740
-      },
-      "Hsinchu": {
-        "all": 351177,
-        "age_10": 416101,
-        "age_20": 403607,
-        "no_presale": 365848,
-        "no_presale_age_10": 451851,
-        "no_presale_age_20": 434266
-      }
-    },
-    {
-      "Quarter": "2024_Q2",
-      "Nation": {
-        "all": 300073,
-        "age_10": 335707,
-        "age_20": 337440,
-        "no_presale": 300509,
-        "no_presale_age_10": 338795,
-        "no_presale_age_20": 340377
-      },
-      "Taipei": {
-        "all": 778536,
-        "age_10": 885226,
-        "age_20": 868226,
-        "no_presale": 776502,
-        "no_presale_age_10": 885213,
-        "no_presale_age_20": 866321
-      },
-      "NewTaipei": {
-        "all": 433355,
-        "age_10": 474527,
-        "age_20": 469696,
-        "no_presale": 439577,
-        "no_presale_age_10": 504982,
-        "no_presale_age_20": 484112
-      },
-      "Taoyuan": {
-        "all": 278102,
-        "age_10": 331567,
-        "age_20": 312539,
-        "no_presale": 277950,
-        "no_presale_age_10": 339071,
-        "no_presale_age_20": 318033
-      },
-      "Taichung": {
-        "all": 292549,
-        "age_10": 345109,
-        "age_20": 346612,
-        "no_presale": 293613,
-        "no_presale_age_10": 348645,
-        "no_presale_age_20": 349116
-      },
-      "Tainan": {
-        "all": 239602,
-        "age_10": 294939,
-        "age_20": 292306,
-        "no_presale": 243595,
-        "no_presale_age_10": 298869,
-        "no_presale_age_20": 296443
-      },
-      "Kaohsiung": {
-        "all": 299950,
-        "age_10": 325046,
-        "age_20": 320855,
-        "no_presale": 298696,
-        "no_presale_age_10": 323587,
-        "no_presale_age_20": 320099
-      },
-      "Hsinchu": {
-        "all": 354676,
-        "age_10": 380453,
-        "age_20": 396126,
-        "no_presale": 391258,
-        "no_presale_age_10": 455838,
-        "no_presale_age_20": 446215
-      }
-    },
-    {
-      "Quarter": "2024_Q3",
-      "Nation": {
-        "all": 317226,
-        "age_10": 348711,
-        "age_20": 350456,
-        "no_presale": 318007,
-        "no_presale_age_10": 353775,
-        "no_presale_age_20": 354995
-      },
-      "Taipei": {
-        "all": 820562,
-        "age_10": 969846,
-        "age_20": 928539,
-        "no_presale": 814476,
-        "no_presale_age_10": 955689,
-        "no_presale_age_20": 918506
-      },
-      "NewTaipei": {
-        "all": 450782,
-        "age_10": 514823,
-        "age_20": 494264,
-        "no_presale": 466615,
-        "no_presale_age_10": 551035,
-        "no_presale_age_20": 522043
-      },
-      "Taoyuan": {
-        "all": 293828,
-        "age_10": 358327,
-        "age_20": 334463,
-        "no_presale": 292355,
-        "no_presale_age_10": 363326,
-        "no_presale_age_20": 336797
-      },
-      "Taichung": {
-        "all": 308592,
-        "age_10": 356899,
-        "age_20": 359375,
-        "no_presale": 306671,
-        "no_presale_age_10": 355293,
-        "no_presale_age_20": 358840
-      },
-      "Tainan": {
-        "all": 265663,
-        "age_10": 309610,
-        "age_20": 308519,
-        "no_presale": 265448,
-        "no_presale_age_10": 310051,
-        "no_presale_age_20": 308977
-      },
-      "Kaohsiung": {
-        "all": 318788,
-        "age_10": 342456,
-        "age_20": 338896,
-        "no_presale": 320122,
-        "no_presale_age_10": 344169,
-        "no_presale_age_20": 340873
-      },
-      "Hsinchu": {
-        "all": 359061,
-        "age_10": 395562,
-        "age_20": 404255,
-        "no_presale": 383230,
-        "no_presale_age_10": 459473,
-        "no_presale_age_20": 449415
-      }
-    },
-    {
-      "Quarter": "2024_Q4",
-      "Nation": {
-        "all": 311431,
-        "age_10": 351871,
-        "age_20": 353058,
-        "no_presale": 311587,
-        "no_presale_age_10": 354635,
-        "no_presale_age_20": 355788
-      },
-      "Taipei": {
-        "all": 808017,
-        "age_10": 977246,
-        "age_20": 937974,
-        "no_presale": 807868,
-        "no_presale_age_10": 975514,
-        "no_presale_age_20": 935767
-      },
-      "NewTaipei": {
-        "all": 462273,
-        "age_10": 546830,
-        "age_20": 516959,
-        "no_presale": 473780,
-        "no_presale_age_10": 578595,
-        "no_presale_age_20": 540365
-      },
-      "Taoyuan": {
-        "all": 301260,
-        "age_10": 362187,
-        "age_20": 340529,
-        "no_presale": 298536,
-        "no_presale_age_10": 371673,
-        "no_presale_age_20": 343990
-      },
-      "Taichung": {
-        "all": 305091,
-        "age_10": 363704,
-        "age_20": 363716,
-        "no_presale": 299040,
-        "no_presale_age_10": 352473,
-        "no_presale_age_20": 355798
-      },
-      "Tainan": {
-        "all": 259936,
-        "age_10": 308089,
-        "age_20": 306507,
-        "no_presale": 261917,
-        "no_presale_age_10": 309193,
-        "no_presale_age_20": 308152
-      },
-      "Kaohsiung": {
-        "all": 316549,
-        "age_10": 348167,
-        "age_20": 345332,
-        "no_presale": 318112,
-        "no_presale_age_10": 350136,
-        "no_presale_age_20": 346502
-      },
-      "Hsinchu": {
-        "all": 385980,
-        "age_10": 486213,
-        "age_20": 471521,
-        "no_presale": 394701,
-        "no_presale_age_10": 490793,
-        "no_presale_age_20": 479749
-      }
+    "Hsinchu": {
+      "all": 156170,
+      "age_10": 174469,
+      "age_20": 161428,
+      "no_presale": 157898,
+      "no_presale_age_10": 174469,
+      "no_presale_age_20": 161428
     }
-  ]
+  },
+  {
+    "Quarter": "2013_Q1",
+    "Nation": {
+      "all": 160445,
+      "age_10": 193698,
+      "age_20": 161712,
+      "no_presale": 157628,
+      "no_presale_age_10": 193012,
+      "no_presale_age_20": 160169
+    },
+    "Taipei": {
+      "all": 536137,
+      "age_10": 598493,
+      "age_20": 572780,
+      "no_presale": 534684,
+      "no_presale_age_10": 595845,
+      "no_presale_age_20": 570636
+    },
+    "NewTaipei": {
+      "all": 248532,
+      "age_10": 239863,
+      "age_20": 244332,
+      "no_presale": 252780,
+      "no_presale_age_10": 250471,
+      "no_presale_age_20": 250876
+    },
+    "Taoyuan": {
+      "all": 134463,
+      "age_10": 155565,
+      "age_20": 140046,
+      "no_presale": 134289,
+      "no_presale_age_10": 155286,
+      "no_presale_age_20": 139836
+    },
+    "Taichung": {
+      "all": 130157,
+      "age_10": 172638,
+      "age_20": 139678,
+      "no_presale": 126949,
+      "no_presale_age_10": 179208,
+      "no_presale_age_20": 137008
+    },
+    "Tainan": {
+      "all": 73256,
+      "age_10": 73256,
+      "age_20": 74033,
+      "no_presale": 73256,
+      "no_presale_age_10": 73256,
+      "no_presale_age_20": 74033
+    },
+    "Kaohsiung": {
+      "all": 125643,
+      "age_10": 170942,
+      "age_20": 133764,
+      "no_presale": 125164,
+      "no_presale_age_10": 170478,
+      "no_presale_age_20": 133269
+    },
+    "Hsinchu": {
+      "all": 161517,
+      "age_10": 178436,
+      "age_20": 166838,
+      "no_presale": 163418,
+      "no_presale_age_10": 178288,
+      "no_presale_age_20": 166744
+    }
+  },
+  {
+    "Quarter": "2013_Q2",
+    "Nation": {
+      "all": 165045,
+      "age_10": 203359,
+      "age_20": 166698,
+      "no_presale": 162154,
+      "no_presale_age_10": 202731,
+      "no_presale_age_20": 165210
+    },
+    "Taipei": {
+      "all": 551031,
+      "age_10": 614760,
+      "age_20": 590587,
+      "no_presale": 548565,
+      "no_presale_age_10": 613583,
+      "no_presale_age_20": 587595
+    },
+    "NewTaipei": {
+      "all": 267104,
+      "age_10": 279154,
+      "age_20": 270486,
+      "no_presale": 265122,
+      "no_presale_age_10": 273696,
+      "no_presale_age_20": 267691
+    },
+    "Taoyuan": {
+      "all": 144372,
+      "age_10": 158456,
+      "age_20": 149623,
+      "no_presale": 144355,
+      "no_presale_age_10": 158426,
+      "no_presale_age_20": 149588
+    },
+    "Taichung": {
+      "all": 131583,
+      "age_10": 191458,
+      "age_20": 143841,
+      "no_presale": 125625,
+      "no_presale_age_10": 199245,
+      "no_presale_age_20": 139073
+    },
+    "Tainan": {
+      "all": 80661,
+      "age_10": 138266,
+      "age_20": 85603,
+      "no_presale": 80787,
+      "no_presale_age_10": 138266,
+      "no_presale_age_20": 85603
+    },
+    "Kaohsiung": {
+      "all": 125775,
+      "age_10": 172507,
+      "age_20": 133413,
+      "no_presale": 125382,
+      "no_presale_age_10": 171874,
+      "no_presale_age_20": 132869
+    },
+    "Hsinchu": {
+      "all": 167107,
+      "age_10": 181428,
+      "age_20": 173498,
+      "no_presale": 168207,
+      "no_presale_age_10": 181137,
+      "no_presale_age_20": 172974
+    }
+  },
+  {
+    "Quarter": "2013_Q3",
+    "Nation": {
+      "all": 174955,
+      "age_10": 210278,
+      "age_20": 176729,
+      "no_presale": 172810,
+      "no_presale_age_10": 210658,
+      "no_presale_age_20": 176238
+    },
+    "Taipei": {
+      "all": 570628,
+      "age_10": 626866,
+      "age_20": 606284,
+      "no_presale": 563098,
+      "no_presale_age_10": 622698,
+      "no_presale_age_20": 599266
+    },
+    "NewTaipei": {
+      "all": 274866,
+      "age_10": 275945,
+      "age_20": 275415,
+      "no_presale": 274284,
+      "no_presale_age_10": 275582,
+      "no_presale_age_20": 275349
+    },
+    "Taoyuan": {
+      "all": 151193,
+      "age_10": 169937,
+      "age_20": 156921,
+      "no_presale": 151157,
+      "no_presale_age_10": 169889,
+      "no_presale_age_20": 156866
+    },
+    "Taichung": {
+      "all": 138780,
+      "age_10": 202646,
+      "age_20": 152655,
+      "no_presale": 134820,
+      "no_presale_age_10": 208352,
+      "no_presale_age_20": 148998
+    },
+    "Tainan": {
+      "all": 85155,
+      "age_10": 130397,
+      "age_20": 90069,
+      "no_presale": 85155,
+      "no_presale_age_10": 130397,
+      "no_presale_age_20": 90069
+    },
+    "Kaohsiung": {
+      "all": 138159,
+      "age_10": 179894,
+      "age_20": 146486,
+      "no_presale": 137744,
+      "no_presale_age_10": 179815,
+      "no_presale_age_20": 145942
+    },
+    "Hsinchu": {
+      "all": 171316,
+      "age_10": 186962,
+      "age_20": 177540,
+      "no_presale": 172529,
+      "no_presale_age_10": 186932,
+      "no_presale_age_20": 177540
+    }
+  },
+  {
+    "Quarter": "2013_Q4",
+    "Nation": {
+      "all": 184415,
+      "age_10": 224617,
+      "age_20": 189931,
+      "no_presale": 182598,
+      "no_presale_age_10": 231203,
+      "no_presale_age_20": 190060
+    },
+    "Taipei": {
+      "all": 571455,
+      "age_10": 640357,
+      "age_20": 616863,
+      "no_presale": 569683,
+      "no_presale_age_10": 639570,
+      "no_presale_age_20": 613683
+    },
+    "NewTaipei": {
+      "all": 298860,
+      "age_10": 313068,
+      "age_20": 303362,
+      "no_presale": 299398,
+      "no_presale_age_10": 314569,
+      "no_presale_age_20": 304552
+    },
+    "Taoyuan": {
+      "all": 159970,
+      "age_10": 181379,
+      "age_20": 167144,
+      "no_presale": 159175,
+      "no_presale_age_10": 188727,
+      "no_presale_age_20": 167137
+    },
+    "Taichung": {
+      "all": 140830,
+      "age_10": 202950,
+      "age_20": 157861,
+      "no_presale": 138714,
+      "no_presale_age_10": 211053,
+      "no_presale_age_20": 155445
+    },
+    "Tainan": {
+      "all": 88529,
+      "age_10": 131417,
+      "age_20": 93544,
+      "no_presale": 88540,
+      "no_presale_age_10": 131417,
+      "no_presale_age_20": 93544
+    },
+    "Kaohsiung": {
+      "all": 144499,
+      "age_10": 184874,
+      "age_20": 153089,
+      "no_presale": 143793,
+      "no_presale_age_10": 184360,
+      "no_presale_age_20": 152241
+    },
+    "Hsinchu": {
+      "all": 173626,
+      "age_10": 192093,
+      "age_20": 179932,
+      "no_presale": 174575,
+      "no_presale_age_10": 192093,
+      "no_presale_age_20": 179932
+    }
+  },
+  {
+    "Quarter": "2014_Q1",
+    "Nation": {
+      "all": 185483,
+      "age_10": 221443,
+      "age_20": 190403,
+      "no_presale": 181873,
+      "no_presale_age_10": 222555,
+      "no_presale_age_20": 188256
+    },
+    "Taipei": {
+      "all": 590788,
+      "age_10": 651435,
+      "age_20": 628618,
+      "no_presale": 586788,
+      "no_presale_age_10": 652800,
+      "no_presale_age_20": 628618
+    },
+    "NewTaipei": {
+      "all": 299749,
+      "age_10": 321167,
+      "age_20": 303924,
+      "no_presale": 304071,
+      "no_presale_age_10": 333223,
+      "no_presale_age_20": 311474
+    },
+    "Taoyuan": {
+      "all": 165289,
+      "age_10": 185932,
+      "age_20": 172906,
+      "no_presale": 163795,
+      "no_presale_age_10": 187084,
+      "no_presale_age_20": 172069
+    },
+    "Taichung": {
+      "all": 155002,
+      "age_10": 196390,
+      "age_20": 169583,
+      "no_presale": 143289,
+      "no_presale_age_10": 194093,
+      "no_presale_age_20": 157121
+    },
+    "Tainan": {
+      "all": 91521,
+      "age_10": 157709,
+      "age_20": 98969,
+      "no_presale": 91527,
+      "no_presale_age_10": 157709,
+      "no_presale_age_20": 98969
+    },
+    "Kaohsiung": {
+      "all": 144982,
+      "age_10": 188898,
+      "age_20": 156757,
+      "no_presale": 143595,
+      "no_presale_age_10": 186936,
+      "no_presale_age_20": 155088
+    },
+    "Hsinchu": {
+      "all": 167785,
+      "age_10": 183289,
+      "age_20": 173845,
+      "no_presale": 167676,
+      "no_presale_age_10": 181772,
+      "no_presale_age_20": 172668
+    }
+  },
+  {
+    "Quarter": "2014_Q2",
+    "Nation": {
+      "all": 183365,
+      "age_10": 224825,
+      "age_20": 193418,
+      "no_presale": 177595,
+      "no_presale_age_10": 222998,
+      "no_presale_age_20": 189299
+    },
+    "Taipei": {
+      "all": 621172,
+      "age_10": 695570,
+      "age_20": 671593,
+      "no_presale": 604088,
+      "no_presale_age_10": 680964,
+      "no_presale_age_20": 652263
+    },
+    "NewTaipei": {
+      "all": 311501,
+      "age_10": 331296,
+      "age_20": 319731,
+      "no_presale": 308291,
+      "no_presale_age_10": 328311,
+      "no_presale_age_20": 315772
+    },
+    "Taoyuan": {
+      "all": 168063,
+      "age_10": 184436,
+      "age_20": 175704,
+      "no_presale": 165521,
+      "no_presale_age_10": 184582,
+      "no_presale_age_20": 174550
+    },
+    "Taichung": {
+      "all": 157815,
+      "age_10": 218942,
+      "age_20": 183276,
+      "no_presale": 151898,
+      "no_presale_age_10": 232212,
+      "no_presale_age_20": 174228
+    },
+    "Tainan": {
+      "all": 95613,
+      "age_10": 154648,
+      "age_20": 102972,
+      "no_presale": 95613,
+      "no_presale_age_10": 154648,
+      "no_presale_age_20": 102972
+    },
+    "Kaohsiung": {
+      "all": 140579,
+      "age_10": 200248,
+      "age_20": 158268,
+      "no_presale": 138435,
+      "no_presale_age_10": 197438,
+      "no_presale_age_20": 155990
+    },
+    "Hsinchu": {
+      "all": 174772,
+      "age_10": 194797,
+      "age_20": 185263,
+      "no_presale": 174772,
+      "no_presale_age_10": 193250,
+      "no_presale_age_20": 183769
+    }
+  },
+  {
+    "Quarter": "2014_Q3",
+    "Nation": {
+      "all": 181970,
+      "age_10": 213471,
+      "age_20": 191732,
+      "no_presale": 178927,
+      "no_presale_age_10": 215628,
+      "no_presale_age_20": 190962
+    },
+    "Taipei": {
+      "all": 580916,
+      "age_10": 606724,
+      "age_20": 595339,
+      "no_presale": 568344,
+      "no_presale_age_10": 583388,
+      "no_presale_age_20": 576889
+    },
+    "NewTaipei": {
+      "all": 295180,
+      "age_10": 279228,
+      "age_20": 294569,
+      "no_presale": 291038,
+      "no_presale_age_10": 270793,
+      "no_presale_age_20": 289998
+    },
+    "Taoyuan": {
+      "all": 166889,
+      "age_10": 176496,
+      "age_20": 172284,
+      "no_presale": 165931,
+      "no_presale_age_10": 175342,
+      "no_presale_age_20": 171610
+    },
+    "Taichung": {
+      "all": 152787,
+      "age_10": 210830,
+      "age_20": 171807,
+      "no_presale": 153266,
+      "no_presale_age_10": 230605,
+      "no_presale_age_20": 175731
+    },
+    "Tainan": {
+      "all": 101893,
+      "age_10": 166370,
+      "age_20": 112810,
+      "no_presale": 101944,
+      "no_presale_age_10": 166370,
+      "no_presale_age_20": 112810
+    },
+    "Kaohsiung": {
+      "all": 153223,
+      "age_10": 193846,
+      "age_20": 166321,
+      "no_presale": 151583,
+      "no_presale_age_10": 196298,
+      "no_presale_age_20": 164337
+    },
+    "Hsinchu": {
+      "all": 177276,
+      "age_10": 200845,
+      "age_20": 190405,
+      "no_presale": 173858,
+      "no_presale_age_10": 202144,
+      "no_presale_age_20": 186645
+    }
+  },
+  {
+    "Quarter": "2014_Q4",
+    "Nation": {
+      "all": 182304,
+      "age_10": 218689,
+      "age_20": 194617,
+      "no_presale": 178089,
+      "no_presale_age_10": 219673,
+      "no_presale_age_20": 191217
+    },
+    "Taipei": {
+      "all": 593405,
+      "age_10": 643699,
+      "age_20": 623559,
+      "no_presale": 587742,
+      "no_presale_age_10": 660438,
+      "no_presale_age_20": 631974
+    },
+    "NewTaipei": {
+      "all": 297669,
+      "age_10": 266893,
+      "age_20": 297342,
+      "no_presale": 290744,
+      "no_presale_age_10": 253369,
+      "no_presale_age_20": 287593
+    },
+    "Taoyuan": {
+      "all": 178020,
+      "age_10": 203121,
+      "age_20": 188436,
+      "no_presale": 176496,
+      "no_presale_age_10": 201802,
+      "no_presale_age_20": 186119
+    },
+    "Taichung": {
+      "all": 155709,
+      "age_10": 214565,
+      "age_20": 176150,
+      "no_presale": 153848,
+      "no_presale_age_10": 232337,
+      "no_presale_age_20": 182985
+    },
+    "Tainan": {
+      "all": 105716,
+      "age_10": 172625,
+      "age_20": 117731,
+      "no_presale": 103056,
+      "no_presale_age_10": 160139,
+      "no_presale_age_20": 113026
+    },
+    "Kaohsiung": {
+      "all": 156383,
+      "age_10": 195936,
+      "age_20": 170747,
+      "no_presale": 154379,
+      "no_presale_age_10": 195646,
+      "no_presale_age_20": 168850
+    },
+    "Hsinchu": {
+      "all": 181408,
+      "age_10": 202093,
+      "age_20": 192522,
+      "no_presale": 169519,
+      "no_presale_age_10": 194549,
+      "no_presale_age_20": 181223
+    }
+  },
+  {
+    "Quarter": "2015_Q1",
+    "Nation": {
+      "all": 188134,
+      "age_10": 218301,
+      "age_20": 200003,
+      "no_presale": 185276,
+      "no_presale_age_10": 219719,
+      "no_presale_age_20": 199003
+    },
+    "Taipei": {
+      "all": 615560,
+      "age_10": 671593,
+      "age_20": 654565,
+      "no_presale": 599068,
+      "no_presale_age_10": 653693,
+      "no_presale_age_20": 641772
+    },
+    "NewTaipei": {
+      "all": 298833,
+      "age_10": 277987,
+      "age_20": 298441,
+      "no_presale": 294215,
+      "no_presale_age_10": 265583,
+      "no_presale_age_20": 291388
+    },
+    "Taoyuan": {
+      "all": 178367,
+      "age_10": 191509,
+      "age_20": 185721,
+      "no_presale": 178483,
+      "no_presale_age_10": 197278,
+      "no_presale_age_20": 187959
+    },
+    "Taichung": {
+      "all": 166894,
+      "age_10": 194207,
+      "age_20": 180893,
+      "no_presale": 162850,
+      "no_presale_age_10": 205317,
+      "no_presale_age_20": 183084
+    },
+    "Tainan": {
+      "all": 104464,
+      "age_10": 166615,
+      "age_20": 120540,
+      "no_presale": 104464,
+      "no_presale_age_10": 166615,
+      "no_presale_age_20": 120540
+    },
+    "Kaohsiung": {
+      "all": 159455,
+      "age_10": 199878,
+      "age_20": 178524,
+      "no_presale": 158183,
+      "no_presale_age_10": 198258,
+      "no_presale_age_20": 177230
+    },
+    "Hsinchu": {
+      "all": 188284,
+      "age_10": 202711,
+      "age_20": 194225,
+      "no_presale": 186350,
+      "no_presale_age_10": 200810,
+      "no_presale_age_20": 191078
+    }
+  },
+  {
+    "Quarter": "2015_Q2",
+    "Nation": {
+      "all": 182967,
+      "age_10": 222374,
+      "age_20": 197787,
+      "no_presale": 178383,
+      "no_presale_age_10": 221250,
+      "no_presale_age_20": 194780
+    },
+    "Taipei": {
+      "all": 641402,
+      "age_10": 718724,
+      "age_20": 691587,
+      "no_presale": 634562,
+      "no_presale_age_10": 719924,
+      "no_presale_age_20": 688375
+    },
+    "NewTaipei": {
+      "all": 307813,
+      "age_10": 308179,
+      "age_20": 314071,
+      "no_presale": 304023,
+      "no_presale_age_10": 298033,
+      "no_presale_age_20": 308036
+    },
+    "Taoyuan": {
+      "all": 173002,
+      "age_10": 192023,
+      "age_20": 182737,
+      "no_presale": 172109,
+      "no_presale_age_10": 195517,
+      "no_presale_age_20": 183365
+    },
+    "Taichung": {
+      "all": 169241,
+      "age_10": 212076,
+      "age_20": 194955,
+      "no_presale": 162757,
+      "no_presale_age_10": 215570,
+      "no_presale_age_20": 191319
+    },
+    "Tainan": {
+      "all": 102370,
+      "age_10": 144033,
+      "age_20": 110896,
+      "no_presale": 102370,
+      "no_presale_age_10": 144033,
+      "no_presale_age_20": 110896
+    },
+    "Kaohsiung": {
+      "all": 151369,
+      "age_10": 190969,
+      "age_20": 168617,
+      "no_presale": 150952,
+      "no_presale_age_10": 192615,
+      "no_presale_age_20": 169372
+    },
+    "Hsinchu": {
+      "all": 180453,
+      "age_10": 192774,
+      "age_20": 188175,
+      "no_presale": 176403,
+      "no_presale_age_10": 189633,
+      "no_presale_age_20": 184714
+    }
+  },
+  {
+    "Quarter": "2015_Q3",
+    "Nation": {
+      "all": 184934,
+      "age_10": 226331,
+      "age_20": 204188,
+      "no_presale": 179868,
+      "no_presale_age_10": 223694,
+      "no_presale_age_20": 199489
+    },
+    "Taipei": {
+      "all": 617235,
+      "age_10": 669593,
+      "age_20": 653193,
+      "no_presale": 593874,
+      "no_presale_age_10": 668208,
+      "no_presale_age_20": 643111
+    },
+    "NewTaipei": {
+      "all": 300835,
+      "age_10": 289779,
+      "age_20": 301058,
+      "no_presale": 295965,
+      "no_presale_age_10": 277557,
+      "no_presale_age_20": 293749
+    },
+    "Taoyuan": {
+      "all": 174919,
+      "age_10": 189579,
+      "age_20": 183402,
+      "no_presale": 173782,
+      "no_presale_age_10": 187205,
+      "no_presale_age_20": 181960
+    },
+    "Taichung": {
+      "all": 160965,
+      "age_10": 225729,
+      "age_20": 194651,
+      "no_presale": 159610,
+      "no_presale_age_10": 221476,
+      "no_presale_age_20": 192374
+    },
+    "Tainan": {
+      "all": 106540,
+      "age_10": 160646,
+      "age_20": 123428,
+      "no_presale": 106615,
+      "no_presale_age_10": 160646,
+      "no_presale_age_20": 123428
+    },
+    "Kaohsiung": {
+      "all": 149620,
+      "age_10": 198278,
+      "age_20": 168169,
+      "no_presale": 149091,
+      "no_presale_age_10": 198056,
+      "no_presale_age_20": 168132
+    },
+    "Hsinchu": {
+      "all": 179506,
+      "age_10": 207063,
+      "age_20": 193278,
+      "no_presale": 173005,
+      "no_presale_age_10": 196980,
+      "no_presale_age_20": 185755
+    }
+  },
+  {
+    "Quarter": "2015_Q4",
+    "Nation": {
+      "all": 182264,
+      "age_10": 226238,
+      "age_20": 201901,
+      "no_presale": 174621,
+      "no_presale_age_10": 218172,
+      "no_presale_age_20": 195102
+    },
+    "Taipei": {
+      "all": 635228,
+      "age_10": 701329,
+      "age_20": 686707,
+      "no_presale": 594856,
+      "no_presale_age_10": 662040,
+      "no_presale_age_20": 636860
+    },
+    "NewTaipei": {
+      "all": 306484,
+      "age_10": 319722,
+      "age_20": 318288,
+      "no_presale": 303192,
+      "no_presale_age_10": 324610,
+      "no_presale_age_20": 318463
+    },
+    "Taoyuan": {
+      "all": 168902,
+      "age_10": 183491,
+      "age_20": 179540,
+      "no_presale": 162866,
+      "no_presale_age_10": 178767,
+      "no_presale_age_20": 175008
+    },
+    "Taichung": {
+      "all": 160048,
+      "age_10": 224588,
+      "age_20": 195074,
+      "no_presale": 159127,
+      "no_presale_age_10": 225759,
+      "no_presale_age_20": 193828
+    },
+    "Tainan": {
+      "all": 109094,
+      "age_10": 139924,
+      "age_20": 125788,
+      "no_presale": 105202,
+      "no_presale_age_10": 187547,
+      "no_presale_age_20": 123896
+    },
+    "Kaohsiung": {
+      "all": 145283,
+      "age_10": 204772,
+      "age_20": 167035,
+      "no_presale": 145236,
+      "no_presale_age_10": 204469,
+      "no_presale_age_20": 166731
+    },
+    "Hsinchu": {
+      "all": 174374,
+      "age_10": 189765,
+      "age_20": 183177,
+      "no_presale": 170479,
+      "no_presale_age_10": 185160,
+      "no_presale_age_20": 178400
+    }
+  },
+  {
+    "Quarter": "2016_Q1",
+    "Nation": {
+      "all": 194443,
+      "age_10": 231974,
+      "age_20": 214354,
+      "no_presale": 182965,
+      "no_presale_age_10": 223471,
+      "no_presale_age_20": 204997
+    },
+    "Taipei": {
+      "all": 623874,
+      "age_10": 687511,
+      "age_20": 674304,
+      "no_presale": 577159,
+      "no_presale_age_10": 645051,
+      "no_presale_age_20": 635031
+    },
+    "NewTaipei": {
+      "all": 296420,
+      "age_10": 283848,
+      "age_20": 298506,
+      "no_presale": 294509,
+      "no_presale_age_10": 283772,
+      "no_presale_age_20": 298460
+    },
+    "Taoyuan": {
+      "all": 189569,
+      "age_10": 213772,
+      "age_20": 203709,
+      "no_presale": 175628,
+      "no_presale_age_10": 202365,
+      "no_presale_age_20": 189980
+    },
+    "Taichung": {
+      "all": 154893,
+      "age_10": 235028,
+      "age_20": 200724,
+      "no_presale": 154836,
+      "no_presale_age_10": 235231,
+      "no_presale_age_20": 200493
+    },
+    "Tainan": {
+      "all": 98684,
+      "age_10": 71792,
+      "age_20": 113921,
+      "no_presale": 98420,
+      "no_presale_age_10": 71792,
+      "no_presale_age_20": 113779
+    },
+    "Kaohsiung": {
+      "all": 143463,
+      "age_10": 195954,
+      "age_20": 165288,
+      "no_presale": 142198,
+      "no_presale_age_10": 196980,
+      "no_presale_age_20": 164312
+    },
+    "Hsinchu": {
+      "all": 184152,
+      "age_10": 197944,
+      "age_20": 191463,
+      "no_presale": 181316,
+      "no_presale_age_10": 192840,
+      "no_presale_age_20": 186936
+    }
+  },
+  {
+    "Quarter": "2016_Q2",
+    "Nation": {
+      "all": 169855,
+      "age_10": 194954,
+      "age_20": 188711,
+      "no_presale": 175395,
+      "no_presale_age_10": 216893,
+      "no_presale_age_20": 201083
+    },
+    "Taipei": {
+      "all": 575550,
+      "age_10": 667509,
+      "age_20": 643127,
+      "no_presale": 556107,
+      "no_presale_age_10": 621919,
+      "no_presale_age_20": 606301
+    },
+    "NewTaipei": {
+      "all": 281122,
+      "age_10": 266050,
+      "age_20": 281993,
+      "no_presale": 283519,
+      "no_presale_age_10": 271560,
+      "no_presale_age_20": 285845
+    },
+    "Taoyuan": {
+      "all": 148238,
+      "age_10": 148919,
+      "age_20": 150321,
+      "no_presale": 162899,
+      "no_presale_age_10": 186995,
+      "no_presale_age_20": 179309
+    },
+    "Taichung": {
+      "all": 152775,
+      "age_10": 223569,
+      "age_20": 199957,
+      "no_presale": 152970,
+      "no_presale_age_10": 223569,
+      "no_presale_age_20": 199957
+    },
+    "Tainan": {
+      "all": 98929,
+      "age_10": 143445,
+      "age_20": 112545,
+      "no_presale": 98929,
+      "no_presale_age_10": 143445,
+      "no_presale_age_20": 112545
+    },
+    "Kaohsiung": {
+      "all": 142091,
+      "age_10": 207851,
+      "age_20": 178906,
+      "no_presale": 142091,
+      "no_presale_age_10": 207851,
+      "no_presale_age_20": 178906
+    },
+    "Hsinchu": {
+      "all": 170347,
+      "age_10": 185679,
+      "age_20": 181559,
+      "no_presale": 171217,
+      "no_presale_age_10": 195198,
+      "no_presale_age_20": 186036
+    }
+  },
+  {
+    "Quarter": "2016_Q3",
+    "Nation": {
+      "all": 175734,
+      "age_10": 197140,
+      "age_20": 190638,
+      "no_presale": 174048,
+      "no_presale_age_10": 198460,
+      "no_presale_age_20": 190664
+    },
+    "Taipei": {
+      "all": 610410,
+      "age_10": 672929,
+      "age_20": 661970,
+      "no_presale": 596383,
+      "no_presale_age_10": 666255,
+      "no_presale_age_20": 653926
+    },
+    "NewTaipei": {
+      "all": 292423,
+      "age_10": 286179,
+      "age_20": 297187,
+      "no_presale": 287488,
+      "no_presale_age_10": 270717,
+      "no_presale_age_20": 290195
+    },
+    "Taoyuan": {
+      "all": 148136,
+      "age_10": 148469,
+      "age_20": 149461,
+      "no_presale": 147821,
+      "no_presale_age_10": 148040,
+      "no_presale_age_20": 148744
+    },
+    "Taichung": {
+      "all": 160769,
+      "age_10": 228268,
+      "age_20": 204393,
+      "no_presale": 160846,
+      "no_presale_age_10": 228268,
+      "no_presale_age_20": 204393
+    },
+    "Tainan": {
+      "all": 107982,
+      "age_10": 166440,
+      "age_20": 153706,
+      "no_presale": 105970,
+      "no_presale_age_10": 164007,
+      "no_presale_age_20": 140912
+    },
+    "Kaohsiung": {
+      "all": 156717,
+      "age_10": 223866,
+      "age_20": 186985,
+      "no_presale": 156717,
+      "no_presale_age_10": 223795,
+      "no_presale_age_20": 186869
+    },
+    "Hsinchu": {
+      "all": 181392,
+      "age_10": 200955,
+      "age_20": 193506,
+      "no_presale": 182198,
+      "no_presale_age_10": 198950,
+      "no_presale_age_20": 192828
+    }
+  },
+  {
+    "Quarter": "2016_Q4",
+    "Nation": {
+      "all": 189914,
+      "age_10": 230288,
+      "age_20": 213094,
+      "no_presale": 186294,
+      "no_presale_age_10": 229479,
+      "no_presale_age_20": 211795
+    },
+    "Taipei": {
+      "all": 590567,
+      "age_10": 668988,
+      "age_20": 653993,
+      "no_presale": 580380,
+      "no_presale_age_10": 659008,
+      "no_presale_age_20": 642828
+    },
+    "NewTaipei": {
+      "all": 288076,
+      "age_10": 280473,
+      "age_20": 292400,
+      "no_presale": 282200,
+      "no_presale_age_10": 266496,
+      "no_presale_age_20": 282998
+    },
+    "Taoyuan": {
+      "all": 178595,
+      "age_10": 197769,
+      "age_20": 191830,
+      "no_presale": 173855,
+      "no_presale_age_10": 198086,
+      "no_presale_age_20": 189489
+    },
+    "Taichung": {
+      "all": 154674,
+      "age_10": 227170,
+      "age_20": 205623,
+      "no_presale": 154674,
+      "no_presale_age_10": 227170,
+      "no_presale_age_20": 205623
+    },
+    "Tainan": {
+      "all": 113706,
+      "age_10": 165223,
+      "age_20": 158215,
+      "no_presale": 110063,
+      "no_presale_age_10": 163902,
+      "no_presale_age_20": 155440
+    },
+    "Kaohsiung": {
+      "all": 142126,
+      "age_10": 214696,
+      "age_20": 175517,
+      "no_presale": 142126,
+      "no_presale_age_10": 214696,
+      "no_presale_age_20": 175517
+    },
+    "Hsinchu": {
+      "all": 215722,
+      "age_10": 238486,
+      "age_20": 232780,
+      "no_presale": 217058,
+      "no_presale_age_10": 238428,
+      "no_presale_age_20": 232605
+    }
+  },
+  {
+    "Quarter": "2017_Q1",
+    "Nation": {
+      "all": 181664,
+      "age_10": 215342,
+      "age_20": 203517,
+      "no_presale": 177124,
+      "no_presale_age_10": 212294,
+      "no_presale_age_20": 200058
+    },
+    "Taipei": {
+      "all": 600073,
+      "age_10": 682678,
+      "age_20": 671868,
+      "no_presale": 582230,
+      "no_presale_age_10": 653931,
+      "no_presale_age_20": 647375
+    },
+    "NewTaipei": {
+      "all": 251831,
+      "age_10": 228836,
+      "age_20": 240266,
+      "no_presale": 242674,
+      "no_presale_age_10": 215478,
+      "no_presale_age_20": 227256
+    },
+    "Taoyuan": {
+      "all": 174588,
+      "age_10": 197699,
+      "age_20": 186397,
+      "no_presale": 167630,
+      "no_presale_age_10": 197643,
+      "no_presale_age_20": 184774
+    },
+    "Taichung": {
+      "all": 153302,
+      "age_10": 219544,
+      "age_20": 197527,
+      "no_presale": 153392,
+      "no_presale_age_10": 219544,
+      "no_presale_age_20": 197527
+    },
+    "Tainan": {
+      "all": 130317,
+      "age_10": 164840,
+      "age_20": 162602,
+      "no_presale": 127134,
+      "no_presale_age_10": 164532,
+      "no_presale_age_20": 162217
+    },
+    "Kaohsiung": {
+      "all": 136823,
+      "age_10": 209706,
+      "age_20": 174463,
+      "no_presale": 136726,
+      "no_presale_age_10": 209286,
+      "no_presale_age_20": 173742
+    },
+    "Hsinchu": {
+      "all": 214669,
+      "age_10": 231888,
+      "age_20": 227045,
+      "no_presale": 216684,
+      "no_presale_age_10": 233775,
+      "no_presale_age_20": 228301
+    }
+  },
+  {
+    "Quarter": "2017_Q2",
+    "Nation": {
+      "all": 178349,
+      "age_10": 223835,
+      "age_20": 207840,
+      "no_presale": 173712,
+      "no_presale_age_10": 218990,
+      "no_presale_age_20": 203967
+    },
+    "Taipei": {
+      "all": 599131,
+      "age_10": 652228,
+      "age_20": 640934,
+      "no_presale": 581512,
+      "no_presale_age_10": 640585,
+      "no_presale_age_20": 628435
+    },
+    "NewTaipei": {
+      "all": 265114,
+      "age_10": 247785,
+      "age_20": 254982,
+      "no_presale": 258727,
+      "no_presale_age_10": 229600,
+      "no_presale_age_20": 243522
+    },
+    "Taoyuan": {
+      "all": 171043,
+      "age_10": 200266,
+      "age_20": 190559,
+      "no_presale": 170450,
+      "no_presale_age_10": 200600,
+      "no_presale_age_20": 190764
+    },
+    "Taichung": {
+      "all": 157436,
+      "age_10": 228266,
+      "age_20": 200167,
+      "no_presale": 157455,
+      "no_presale_age_10": 228266,
+      "no_presale_age_20": 200167
+    },
+    "Tainan": {
+      "all": 110972,
+      "age_10": 167737,
+      "age_20": 162028,
+      "no_presale": 110889,
+      "no_presale_age_10": 168013,
+      "no_presale_age_20": 162007
+    },
+    "Kaohsiung": {
+      "all": 140628,
+      "age_10": 213215,
+      "age_20": 180413,
+      "no_presale": 139790,
+      "no_presale_age_10": 210354,
+      "no_presale_age_20": 179540
+    },
+    "Hsinchu": {
+      "all": 193650,
+      "age_10": 228504,
+      "age_20": 220309,
+      "no_presale": 197441,
+      "no_presale_age_10": 228823,
+      "no_presale_age_20": 220281
+    }
+  },
+  {
+    "Quarter": "2017_Q3",
+    "Nation": {
+      "all": 174909,
+      "age_10": 222658,
+      "age_20": 207035,
+      "no_presale": 172936,
+      "no_presale_age_10": 221337,
+      "no_presale_age_20": 205917
+    },
+    "Taipei": {
+      "all": 597098,
+      "age_10": 651911,
+      "age_20": 648460,
+      "no_presale": 585359,
+      "no_presale_age_10": 639841,
+      "no_presale_age_20": 637770
+    },
+    "NewTaipei": {
+      "all": 280010,
+      "age_10": 271835,
+      "age_20": 287210,
+      "no_presale": 278588,
+      "no_presale_age_10": 266364,
+      "no_presale_age_20": 287557
+    },
+    "Taoyuan": {
+      "all": 169200,
+      "age_10": 193957,
+      "age_20": 183683,
+      "no_presale": 168714,
+      "no_presale_age_10": 193922,
+      "no_presale_age_20": 183554
+    },
+    "Taichung": {
+      "all": 157402,
+      "age_10": 232155,
+      "age_20": 208532,
+      "no_presale": 157499,
+      "no_presale_age_10": 232155,
+      "no_presale_age_20": 208532
+    },
+    "Tainan": {
+      "all": 108962,
+      "age_10": 172296,
+      "age_20": 152579,
+      "no_presale": 108962,
+      "no_presale_age_10": 172296,
+      "no_presale_age_20": 152579
+    },
+    "Kaohsiung": {
+      "all": 143431,
+      "age_10": 219845,
+      "age_20": 185861,
+      "no_presale": 143253,
+      "no_presale_age_10": 219499,
+      "no_presale_age_20": 185812
+    },
+    "Hsinchu": {
+      "all": 182050,
+      "age_10": 223488,
+      "age_20": 211230,
+      "no_presale": 183729,
+      "no_presale_age_10": 223570,
+      "no_presale_age_20": 211230
+    }
+  },
+  {
+    "Quarter": "2017_Q4",
+    "Nation": {
+      "all": 180048,
+      "age_10": 225802,
+      "age_20": 212136,
+      "no_presale": 176264,
+      "no_presale_age_10": 224142,
+      "no_presale_age_20": 208142
+    },
+    "Taipei": {
+      "all": 599149,
+      "age_10": 681455,
+      "age_20": 666213,
+      "no_presale": 590608,
+      "no_presale_age_10": 671081,
+      "no_presale_age_20": 647636
+    },
+    "NewTaipei": {
+      "all": 278350,
+      "age_10": 281699,
+      "age_20": 283160,
+      "no_presale": 276610,
+      "no_presale_age_10": 275051,
+      "no_presale_age_20": 279729
+    },
+    "Taoyuan": {
+      "all": 176026,
+      "age_10": 207192,
+      "age_20": 194383,
+      "no_presale": 169066,
+      "no_presale_age_10": 197866,
+      "no_presale_age_20": 187190
+    },
+    "Taichung": {
+      "all": 157772,
+      "age_10": 233045,
+      "age_20": 211489,
+      "no_presale": 157755,
+      "no_presale_age_10": 232711,
+      "no_presale_age_20": 211220
+    },
+    "Tainan": {
+      "all": 112645,
+      "age_10": 175408,
+      "age_20": 163674,
+      "no_presale": 111045,
+      "no_presale_age_10": 170939,
+      "no_presale_age_20": 161055
+    },
+    "Kaohsiung": {
+      "all": 141603,
+      "age_10": 224977,
+      "age_20": 185983,
+      "no_presale": 141603,
+      "no_presale_age_10": 224977,
+      "no_presale_age_20": 185983
+    },
+    "Hsinchu": {
+      "all": 186833,
+      "age_10": 218802,
+      "age_20": 207504,
+      "no_presale": 187359,
+      "no_presale_age_10": 218516,
+      "no_presale_age_20": 206821
+    }
+  },
+  {
+    "Quarter": "2018_Q1",
+    "Nation": {
+      "all": 188813,
+      "age_10": 216255,
+      "age_20": 210255,
+      "no_presale": 182489,
+      "no_presale_age_10": 219291,
+      "no_presale_age_20": 208949
+    },
+    "Taipei": {
+      "all": 609970,
+      "age_10": 658212,
+      "age_20": 649550,
+      "no_presale": 600005,
+      "no_presale_age_10": 629993,
+      "no_presale_age_20": 628638
+    },
+    "NewTaipei": {
+      "all": 315864,
+      "age_10": 340549,
+      "age_20": 331499,
+      "no_presale": 315040,
+      "no_presale_age_10": 341993,
+      "no_presale_age_20": 332162
+    },
+    "Taoyuan": {
+      "all": 180340,
+      "age_10": 206797,
+      "age_20": 195395,
+      "no_presale": 171339,
+      "no_presale_age_10": 185620,
+      "no_presale_age_20": 181927
+    },
+    "Taichung": {
+      "all": 176129,
+      "age_10": 198327,
+      "age_20": 196116,
+      "no_presale": 170810,
+      "no_presale_age_10": 205025,
+      "no_presale_age_20": 201651
+    },
+    "Tainan": {
+      "all": 139273,
+      "age_10": 163256,
+      "age_20": 160121,
+      "no_presale": 134134,
+      "no_presale_age_10": 164093,
+      "no_presale_age_20": 160807
+    },
+    "Kaohsiung": {
+      "all": 155316,
+      "age_10": 192674,
+      "age_20": 184684,
+      "no_presale": 151886,
+      "no_presale_age_10": 190040,
+      "no_presale_age_20": 182840
+    },
+    "Hsinchu": {
+      "all": 202856,
+      "age_10": 218258,
+      "age_20": 213521,
+      "no_presale": 202651,
+      "no_presale_age_10": 221445,
+      "no_presale_age_20": 215078
+    }
+  },
+  {
+    "Quarter": "2018_Q2",
+    "Nation": {
+      "all": 191119,
+      "age_10": 220162,
+      "age_20": 212197,
+      "no_presale": 184260,
+      "no_presale_age_10": 221392,
+      "no_presale_age_20": 209855
+    },
+    "Taipei": {
+      "all": 530400,
+      "age_10": 535002,
+      "age_20": 542109,
+      "no_presale": 592102,
+      "no_presale_age_10": 646726,
+      "no_presale_age_20": 635005
+    },
+    "NewTaipei": {
+      "all": 308526,
+      "age_10": 329213,
+      "age_20": 321891,
+      "no_presale": 320949,
+      "no_presale_age_10": 356383,
+      "no_presale_age_20": 342922
+    },
+    "Taoyuan": {
+      "all": 176899,
+      "age_10": 208250,
+      "age_20": 195273,
+      "no_presale": 171608,
+      "no_presale_age_10": 196018,
+      "no_presale_age_20": 187516
+    },
+    "Taichung": {
+      "all": 180036,
+      "age_10": 213894,
+      "age_20": 208952,
+      "no_presale": 175124,
+      "no_presale_age_10": 212555,
+      "no_presale_age_20": 207412
+    },
+    "Tainan": {
+      "all": 147081,
+      "age_10": 165836,
+      "age_20": 163301,
+      "no_presale": 144122,
+      "no_presale_age_10": 164793,
+      "no_presale_age_20": 161987
+    },
+    "Kaohsiung": {
+      "all": 160701,
+      "age_10": 195544,
+      "age_20": 188605,
+      "no_presale": 158145,
+      "no_presale_age_10": 193101,
+      "no_presale_age_20": 187088
+    },
+    "Hsinchu": {
+      "all": 198420,
+      "age_10": 220066,
+      "age_20": 209527,
+      "no_presale": 195134,
+      "no_presale_age_10": 219603,
+      "no_presale_age_20": 208689
+    }
+  },
+  {
+    "Quarter": "2018_Q3",
+    "Nation": {
+      "all": 190959,
+      "age_10": 219671,
+      "age_20": 213301,
+      "no_presale": 187737,
+      "no_presale_age_10": 229425,
+      "no_presale_age_20": 217243
+    },
+    "Taipei": {
+      "all": 589355,
+      "age_10": 656387,
+      "age_20": 639223,
+      "no_presale": 572826,
+      "no_presale_age_10": 657993,
+      "no_presale_age_20": 636674
+    },
+    "NewTaipei": {
+      "all": 294843,
+      "age_10": 306304,
+      "age_20": 301421,
+      "no_presale": 313640,
+      "no_presale_age_10": 344440,
+      "no_presale_age_20": 333934
+    },
+    "Taoyuan": {
+      "all": 184964,
+      "age_10": 210542,
+      "age_20": 201572,
+      "no_presale": 177924,
+      "no_presale_age_10": 203491,
+      "no_presale_age_20": 192170
+    },
+    "Taichung": {
+      "all": 177848,
+      "age_10": 208542,
+      "age_20": 204714,
+      "no_presale": 173331,
+      "no_presale_age_10": 214469,
+      "no_presale_age_20": 209198
+    },
+    "Tainan": {
+      "all": 148412,
+      "age_10": 164731,
+      "age_20": 161615,
+      "no_presale": 139557,
+      "no_presale_age_10": 166917,
+      "no_presale_age_20": 163319
+    },
+    "Kaohsiung": {
+      "all": 151514,
+      "age_10": 188610,
+      "age_20": 183954,
+      "no_presale": 154352,
+      "no_presale_age_10": 193051,
+      "no_presale_age_20": 187096
+    },
+    "Hsinchu": {
+      "all": 204017,
+      "age_10": 224250,
+      "age_20": 218101,
+      "no_presale": 200575,
+      "no_presale_age_10": 225274,
+      "no_presale_age_20": 214694
+    }
+  },
+  {
+    "Quarter": "2018_Q4",
+    "Nation": {
+      "all": 197223,
+      "age_10": 227218,
+      "age_20": 221183,
+      "no_presale": 192327,
+      "no_presale_age_10": 230112,
+      "no_presale_age_20": 222000
+    },
+    "Taipei": {
+      "all": 652840,
+      "age_10": 737443,
+      "age_20": 725570,
+      "no_presale": 596602,
+      "no_presale_age_10": 681716,
+      "no_presale_age_20": 676840
+    },
+    "NewTaipei": {
+      "all": 301926,
+      "age_10": 315881,
+      "age_20": 310813,
+      "no_presale": 288957,
+      "no_presale_age_10": 296878,
+      "no_presale_age_20": 294271
+    },
+    "Taoyuan": {
+      "all": 179907,
+      "age_10": 202636,
+      "age_20": 194159,
+      "no_presale": 175636,
+      "no_presale_age_10": 197387,
+      "no_presale_age_20": 191048
+    },
+    "Taichung": {
+      "all": 179835,
+      "age_10": 212403,
+      "age_20": 210013,
+      "no_presale": 174698,
+      "no_presale_age_10": 226780,
+      "no_presale_age_20": 219534
+    },
+    "Tainan": {
+      "all": 140731,
+      "age_10": 160621,
+      "age_20": 157481,
+      "no_presale": 123207,
+      "no_presale_age_10": 157486,
+      "no_presale_age_20": 154099
+    },
+    "Kaohsiung": {
+      "all": 168565,
+      "age_10": 209116,
+      "age_20": 197139,
+      "no_presale": 161850,
+      "no_presale_age_10": 209481,
+      "no_presale_age_20": 196354
+    },
+    "Hsinchu": {
+      "all": 196147,
+      "age_10": 213716,
+      "age_20": 207602,
+      "no_presale": 200017,
+      "no_presale_age_10": 228240,
+      "no_presale_age_20": 218179
+    }
+  },
+  {
+    "Quarter": "2019_Q1",
+    "Nation": {
+      "all": 195552,
+      "age_10": 221883,
+      "age_20": 216598,
+      "no_presale": 189367,
+      "no_presale_age_10": 228124,
+      "no_presale_age_20": 219802
+    },
+    "Taipei": {
+      "all": 614863,
+      "age_10": 698228,
+      "age_20": 686716,
+      "no_presale": 594210,
+      "no_presale_age_10": 676555,
+      "no_presale_age_20": 663018
+    },
+    "NewTaipei": {
+      "all": 306403,
+      "age_10": 326998,
+      "age_20": 316595,
+      "no_presale": 297907,
+      "no_presale_age_10": 314076,
+      "no_presale_age_20": 304332
+    },
+    "Taoyuan": {
+      "all": 181815,
+      "age_10": 188203,
+      "age_20": 185835,
+      "no_presale": 179230,
+      "no_presale_age_10": 198402,
+      "no_presale_age_20": 192050
+    },
+    "Taichung": {
+      "all": 183577,
+      "age_10": 209395,
+      "age_20": 208565,
+      "no_presale": 176253,
+      "no_presale_age_10": 220364,
+      "no_presale_age_20": 216668
+    },
+    "Tainan": {
+      "all": 147018,
+      "age_10": 168674,
+      "age_20": 165365,
+      "no_presale": 128545,
+      "no_presale_age_10": 159531,
+      "no_presale_age_20": 154891
+    },
+    "Kaohsiung": {
+      "all": 159653,
+      "age_10": 191299,
+      "age_20": 187278,
+      "no_presale": 156536,
+      "no_presale_age_10": 192674,
+      "no_presale_age_20": 186740
+    },
+    "Hsinchu": {
+      "all": 220266,
+      "age_10": 240550,
+      "age_20": 233990,
+      "no_presale": 206212,
+      "no_presale_age_10": 234043,
+      "no_presale_age_20": 222248
+    }
+  },
+  {
+    "Quarter": "2019_Q2",
+    "Nation": {
+      "all": 194990,
+      "age_10": 224818,
+      "age_20": 219412,
+      "no_presale": 189792,
+      "no_presale_age_10": 228711,
+      "no_presale_age_20": 219793
+    },
+    "Taipei": {
+      "all": 631018,
+      "age_10": 693324,
+      "age_20": 681934,
+      "no_presale": 618007,
+      "no_presale_age_10": 703126,
+      "no_presale_age_20": 684990
+    },
+    "NewTaipei": {
+      "all": 317987,
+      "age_10": 336926,
+      "age_20": 328711,
+      "no_presale": 310005,
+      "no_presale_age_10": 326114,
+      "no_presale_age_20": 317987
+    },
+    "Taoyuan": {
+      "all": 182783,
+      "age_10": 195694,
+      "age_20": 191656,
+      "no_presale": 181093,
+      "no_presale_age_10": 201253,
+      "no_presale_age_20": 195433
+    },
+    "Taichung": {
+      "all": 193820,
+      "age_10": 237170,
+      "age_20": 231342,
+      "no_presale": 180312,
+      "no_presale_age_10": 217415,
+      "no_presale_age_20": 214792
+    },
+    "Tainan": {
+      "all": 150207,
+      "age_10": 172235,
+      "age_20": 168615,
+      "no_presale": 134451,
+      "no_presale_age_10": 167030,
+      "no_presale_age_20": 162408
+    },
+    "Kaohsiung": {
+      "all": 158155,
+      "age_10": 177719,
+      "age_20": 177498,
+      "no_presale": 162671,
+      "no_presale_age_10": 192914,
+      "no_presale_age_20": 187544
+    },
+    "Hsinchu": {
+      "all": 199825,
+      "age_10": 217861,
+      "age_20": 211421,
+      "no_presale": 196030,
+      "no_presale_age_10": 223316,
+      "no_presale_age_20": 212764
+    }
+  },
+  {
+    "Quarter": "2019_Q3",
+    "Nation": {
+      "all": 195554,
+      "age_10": 222225,
+      "age_20": 217600,
+      "no_presale": 191134,
+      "no_presale_age_10": 228053,
+      "no_presale_age_20": 219841
+    },
+    "Taipei": {
+      "all": 622574,
+      "age_10": 691405,
+      "age_20": 685524,
+      "no_presale": 629899,
+      "no_presale_age_10": 712332,
+      "no_presale_age_20": 701874
+    },
+    "NewTaipei": {
+      "all": 307405,
+      "age_10": 329569,
+      "age_20": 323276,
+      "no_presale": 314489,
+      "no_presale_age_10": 357636,
+      "no_presale_age_20": 339241
+    },
+    "Taoyuan": {
+      "all": 185797,
+      "age_10": 194159,
+      "age_20": 191782,
+      "no_presale": 181251,
+      "no_presale_age_10": 196866,
+      "no_presale_age_20": 192245
+    },
+    "Taichung": {
+      "all": 189240,
+      "age_10": 222552,
+      "age_20": 221007,
+      "no_presale": 182489,
+      "no_presale_age_10": 224479,
+      "no_presale_age_20": 221055
+    },
+    "Tainan": {
+      "all": 151066,
+      "age_10": 185048,
+      "age_20": 180813,
+      "no_presale": 144307,
+      "no_presale_age_10": 187765,
+      "no_presale_age_20": 183089
+    },
+    "Kaohsiung": {
+      "all": 163428,
+      "age_10": 189717,
+      "age_20": 187322,
+      "no_presale": 161640,
+      "no_presale_age_10": 189613,
+      "no_presale_age_20": 186912
+    },
+    "Hsinchu": {
+      "all": 180911,
+      "age_10": 187871,
+      "age_20": 187501,
+      "no_presale": 194650,
+      "no_presale_age_10": 220188,
+      "no_presale_age_20": 210463
+    }
+  },
+  {
+    "Quarter": "2019_Q4",
+    "Nation": {
+      "all": 201987,
+      "age_10": 231851,
+      "age_20": 227613,
+      "no_presale": 197117,
+      "no_presale_age_10": 238704,
+      "no_presale_age_20": 230820
+    },
+    "Taipei": {
+      "all": 625483,
+      "age_10": 679704,
+      "age_20": 670217,
+      "no_presale": 625483,
+      "no_presale_age_10": 693663,
+      "no_presale_age_20": 683066
+    },
+    "NewTaipei": {
+      "all": 339967,
+      "age_10": 367873,
+      "age_20": 360483,
+      "no_presale": 325995,
+      "no_presale_age_10": 362977,
+      "no_presale_age_20": 349818
+    },
+    "Taoyuan": {
+      "all": 190066,
+      "age_10": 208625,
+      "age_20": 203821,
+      "no_presale": 185853,
+      "no_presale_age_10": 204750,
+      "no_presale_age_20": 199823
+    },
+    "Taichung": {
+      "all": 190112,
+      "age_10": 209225,
+      "age_20": 210175,
+      "no_presale": 187881,
+      "no_presale_age_10": 235245,
+      "no_presale_age_20": 230802
+    },
+    "Tainan": {
+      "all": 149618,
+      "age_10": 172731,
+      "age_20": 170405,
+      "no_presale": 139526,
+      "no_presale_age_10": 183094,
+      "no_presale_age_20": 178035
+    },
+    "Kaohsiung": {
+      "all": 163684,
+      "age_10": 189752,
+      "age_20": 188603,
+      "no_presale": 161683,
+      "no_presale_age_10": 204721,
+      "no_presale_age_20": 198478
+    },
+    "Hsinchu": {
+      "all": 192587,
+      "age_10": 218334,
+      "age_20": 209689,
+      "no_presale": 197461,
+      "no_presale_age_10": 225878,
+      "no_presale_age_20": 213937
+    }
+  },
+  {
+    "Quarter": "2020_Q1",
+    "Nation": {
+      "all": 213607,
+      "age_10": 241012,
+      "age_20": 236830,
+      "no_presale": 200026,
+      "no_presale_age_10": 242469,
+      "no_presale_age_20": 234502
+    },
+    "Taipei": {
+      "all": 638706,
+      "age_10": 707183,
+      "age_20": 699309,
+      "no_presale": 632569,
+      "no_presale_age_10": 705942,
+      "no_presale_age_20": 696460
+    },
+    "NewTaipei": {
+      "all": 336704,
+      "age_10": 373193,
+      "age_20": 361412,
+      "no_presale": 331952,
+      "no_presale_age_10": 369957,
+      "no_presale_age_20": 357349
+    },
+    "Taoyuan": {
+      "all": 205489,
+      "age_10": 226974,
+      "age_20": 220364,
+      "no_presale": 194499,
+      "no_presale_age_10": 220704,
+      "no_presale_age_20": 213147
+    },
+    "Taichung": {
+      "all": 200260,
+      "age_10": 228043,
+      "age_20": 227501,
+      "no_presale": 186377,
+      "no_presale_age_10": 227430,
+      "no_presale_age_20": 226400
+    },
+    "Tainan": {
+      "all": 147491,
+      "age_10": 173061,
+      "age_20": 167962,
+      "no_presale": 137694,
+      "no_presale_age_10": 173231,
+      "no_presale_age_20": 167326
+    },
+    "Kaohsiung": {
+      "all": 165002,
+      "age_10": 199894,
+      "age_20": 196021,
+      "no_presale": 159683,
+      "no_presale_age_10": 210469,
+      "no_presale_age_20": 201372
+    },
+    "Hsinchu": {
+      "all": 221012,
+      "age_10": 233509,
+      "age_20": 229572,
+      "no_presale": 204235,
+      "no_presale_age_10": 229494,
+      "no_presale_age_20": 222453
+    }
+  },
+  {
+    "Quarter": "2020_Q2",
+    "Nation": {
+      "all": 206261,
+      "age_10": 231646,
+      "age_20": 228499,
+      "no_presale": 198641,
+      "no_presale_age_10": 239144,
+      "no_presale_age_20": 233379
+    },
+    "Taipei": {
+      "all": 624821,
+      "age_10": 678064,
+      "age_20": 668337,
+      "no_presale": 624846,
+      "no_presale_age_10": 695126,
+      "no_presale_age_20": 686060
+    },
+    "NewTaipei": {
+      "all": 335150,
+      "age_10": 366423,
+      "age_20": 355269,
+      "no_presale": 327456,
+      "no_presale_age_10": 370888,
+      "no_presale_age_20": 354783
+    },
+    "Taoyuan": {
+      "all": 201972,
+      "age_10": 220278,
+      "age_20": 215365,
+      "no_presale": 192648,
+      "no_presale_age_10": 213507,
+      "no_presale_age_20": 208281
+    },
+    "Taichung": {
+      "all": 199160,
+      "age_10": 217742,
+      "age_20": 218443,
+      "no_presale": 186405,
+      "no_presale_age_10": 221932,
+      "no_presale_age_20": 222737
+    },
+    "Tainan": {
+      "all": 148083,
+      "age_10": 182575,
+      "age_20": 178460,
+      "no_presale": 135345,
+      "no_presale_age_10": 176397,
+      "no_presale_age_20": 172754
+    },
+    "Kaohsiung": {
+      "all": 161164,
+      "age_10": 192742,
+      "age_20": 191035,
+      "no_presale": 161164,
+      "no_presale_age_10": 217636,
+      "no_presale_age_20": 203835
+    },
+    "Hsinchu": {
+      "all": 192081,
+      "age_10": 207140,
+      "age_20": 205317,
+      "no_presale": 209233,
+      "no_presale_age_10": 232030,
+      "no_presale_age_20": 225210
+    }
+  },
+  {
+    "Quarter": "2020_Q3",
+    "Nation": {
+      "all": 208678,
+      "age_10": 235498,
+      "age_20": 232747,
+      "no_presale": 204441,
+      "no_presale_age_10": 246997,
+      "no_presale_age_20": 240658
+    },
+    "Taipei": {
+      "all": 630835,
+      "age_10": 688486,
+      "age_20": 682995,
+      "no_presale": 630876,
+      "no_presale_age_10": 690529,
+      "no_presale_age_20": 686172
+    },
+    "NewTaipei": {
+      "all": 344610,
+      "age_10": 382410,
+      "age_20": 367154,
+      "no_presale": 330321,
+      "no_presale_age_10": 370483,
+      "no_presale_age_20": 353058
+    },
+    "Taoyuan": {
+      "all": 196995,
+      "age_10": 219306,
+      "age_20": 213974,
+      "no_presale": 192640,
+      "no_presale_age_10": 220869,
+      "no_presale_age_20": 211803
+    },
+    "Taichung": {
+      "all": 201843,
+      "age_10": 227696,
+      "age_20": 228147,
+      "no_presale": 191752,
+      "no_presale_age_10": 230159,
+      "no_presale_age_20": 230443
+    },
+    "Tainan": {
+      "all": 148714,
+      "age_10": 186777,
+      "age_20": 185864,
+      "no_presale": 141689,
+      "no_presale_age_10": 190149,
+      "no_presale_age_20": 186737
+    },
+    "Kaohsiung": {
+      "all": 168709,
+      "age_10": 198023,
+      "age_20": 197570,
+      "no_presale": 169740,
+      "no_presale_age_10": 215635,
+      "no_presale_age_20": 208383
+    },
+    "Hsinchu": {
+      "all": 203157,
+      "age_10": 225331,
+      "age_20": 221012,
+      "no_presale": 206203,
+      "no_presale_age_10": 232740,
+      "no_presale_age_20": 225091
+    }
+  },
+  {
+    "Quarter": "2020_Q4",
+    "Nation": {
+      "all": 213306,
+      "age_10": 243111,
+      "age_20": 240456,
+      "no_presale": 211835,
+      "no_presale_age_10": 251131,
+      "no_presale_age_20": 246992
+    },
+    "Taipei": {
+      "all": 649702,
+      "age_10": 723526,
+      "age_20": 713263,
+      "no_presale": 643174,
+      "no_presale_age_10": 708896,
+      "no_presale_age_20": 701669
+    },
+    "NewTaipei": {
+      "all": 352937,
+      "age_10": 386876,
+      "age_20": 377273,
+      "no_presale": 344536,
+      "no_presale_age_10": 383306,
+      "no_presale_age_20": 370886
+    },
+    "Taoyuan": {
+      "all": 198364,
+      "age_10": 226516,
+      "age_20": 219093,
+      "no_presale": 198195,
+      "no_presale_age_10": 229527,
+      "no_presale_age_20": 219455
+    },
+    "Taichung": {
+      "all": 207593,
+      "age_10": 230602,
+      "age_20": 231271,
+      "no_presale": 198375,
+      "no_presale_age_10": 233673,
+      "no_presale_age_20": 234383
+    },
+    "Tainan": {
+      "all": 152939,
+      "age_10": 196271,
+      "age_20": 192727,
+      "no_presale": 153068,
+      "no_presale_age_10": 201094,
+      "no_presale_age_20": 197081
+    },
+    "Kaohsiung": {
+      "all": 175536,
+      "age_10": 199507,
+      "age_20": 198433,
+      "no_presale": 172564,
+      "no_presale_age_10": 208083,
+      "no_presale_age_20": 203587
+    },
+    "Hsinchu": {
+      "all": 221736,
+      "age_10": 254440,
+      "age_20": 245595,
+      "no_presale": 220471,
+      "no_presale_age_10": 253702,
+      "no_presale_age_20": 243583
+    }
+  },
+  {
+    "Quarter": "2021_Q1",
+    "Nation": {
+      "all": 214689,
+      "age_10": 241329,
+      "age_20": 239940,
+      "no_presale": 213226,
+      "no_presale_age_10": 252446,
+      "no_presale_age_20": 247805
+    },
+    "Taipei": {
+      "all": 652638,
+      "age_10": 698726,
+      "age_20": 701779,
+      "no_presale": 647613,
+      "no_presale_age_10": 704621,
+      "no_presale_age_20": 710400
+    },
+    "NewTaipei": {
+      "all": 341931,
+      "age_10": 380393,
+      "age_20": 370820,
+      "no_presale": 343226,
+      "no_presale_age_10": 390142,
+      "no_presale_age_20": 375266
+    },
+    "Taoyuan": {
+      "all": 198423,
+      "age_10": 227557,
+      "age_20": 219527,
+      "no_presale": 195633,
+      "no_presale_age_10": 226407,
+      "no_presale_age_20": 217055
+    },
+    "Taichung": {
+      "all": 206972,
+      "age_10": 232256,
+      "age_20": 233934,
+      "no_presale": 204621,
+      "no_presale_age_10": 236615,
+      "no_presale_age_20": 238585
+    },
+    "Tainan": {
+      "all": 158572,
+      "age_10": 203944,
+      "age_20": 196117,
+      "no_presale": 158878,
+      "no_presale_age_10": 204972,
+      "no_presale_age_20": 198274
+    },
+    "Kaohsiung": {
+      "all": 178506,
+      "age_10": 202324,
+      "age_20": 203124,
+      "no_presale": 172810,
+      "no_presale_age_10": 194671,
+      "no_presale_age_20": 199372
+    },
+    "Hsinchu": {
+      "all": 211488,
+      "age_10": 239499,
+      "age_20": 234714,
+      "no_presale": 219676,
+      "no_presale_age_10": 257243,
+      "no_presale_age_20": 248757
+    }
+  },
+  {
+    "Quarter": "2021_Q2",
+    "Nation": {
+      "all": 219960,
+      "age_10": 249478,
+      "age_20": 248050,
+      "no_presale": 219646,
+      "no_presale_age_10": 257704,
+      "no_presale_age_20": 253441
+    },
+    "Taipei": {
+      "all": 670041,
+      "age_10": 743608,
+      "age_20": 736036,
+      "no_presale": 655230,
+      "no_presale_age_10": 735012,
+      "no_presale_age_20": 720112
+    },
+    "NewTaipei": {
+      "all": 346455,
+      "age_10": 399117,
+      "age_20": 378550,
+      "no_presale": 345056,
+      "no_presale_age_10": 399283,
+      "no_presale_age_20": 376674
+    },
+    "Taoyuan": {
+      "all": 203081,
+      "age_10": 233122,
+      "age_20": 223921,
+      "no_presale": 198403,
+      "no_presale_age_10": 229147,
+      "no_presale_age_20": 219762
+    },
+    "Taichung": {
+      "all": 215914,
+      "age_10": 248428,
+      "age_20": 250765,
+      "no_presale": 213405,
+      "no_presale_age_10": 249169,
+      "no_presale_age_20": 252162
+    },
+    "Tainan": {
+      "all": 178803,
+      "age_10": 193418,
+      "age_20": 192952,
+      "no_presale": 166350,
+      "no_presale_age_10": 215845,
+      "no_presale_age_20": 213359
+    },
+    "Kaohsiung": {
+      "all": 187498,
+      "age_10": 205334,
+      "age_20": 206502,
+      "no_presale": 191455,
+      "no_presale_age_10": 219931,
+      "no_presale_age_20": 217808
+    },
+    "Hsinchu": {
+      "all": 251174,
+      "age_10": 258552,
+      "age_20": 257150,
+      "no_presale": 241911,
+      "no_presale_age_10": 276889,
+      "no_presale_age_20": 267898
+    }
+  },
+  {
+    "Quarter": "2021_Q3",
+    "Nation": {
+      "all": 214904,
+      "age_10": 240651,
+      "age_20": 243160,
+      "no_presale": 222833,
+      "no_presale_age_10": 259888,
+      "no_presale_age_20": 258529
+    },
+    "Taipei": {
+      "all": 657207,
+      "age_10": 730636,
+      "age_20": 729798,
+      "no_presale": 652436,
+      "no_presale_age_10": 724790,
+      "no_presale_age_20": 725162
+    },
+    "NewTaipei": {
+      "all": 353679,
+      "age_10": 391170,
+      "age_20": 379544,
+      "no_presale": 347893,
+      "no_presale_age_10": 385906,
+      "no_presale_age_20": 369969
+    },
+    "Taoyuan": {
+      "all": 196235,
+      "age_10": 220924,
+      "age_20": 220706,
+      "no_presale": 196235,
+      "no_presale_age_10": 220924,
+      "no_presale_age_20": 220706
+    },
+    "Taichung": {
+      "all": 215782,
+      "age_10": 245861,
+      "age_20": 248473,
+      "no_presale": 215316,
+      "no_presale_age_10": 257104,
+      "no_presale_age_20": 257170
+    },
+    "Tainan": {
+      "all": 178048,
+      "age_10": 182484,
+      "age_20": 182517,
+      "no_presale": 167155,
+      "no_presale_age_10": 213443,
+      "no_presale_age_20": 208532
+    },
+    "Kaohsiung": {
+      "all": 188198,
+      "age_10": 201636,
+      "age_20": 203294,
+      "no_presale": 190737,
+      "no_presale_age_10": 211964,
+      "no_presale_age_20": 212269
+    },
+    "Hsinchu": {
+      "all": 239018,
+      "age_10": 270916,
+      "age_20": 265170,
+      "no_presale": 233636,
+      "no_presale_age_10": 284800,
+      "no_presale_age_20": 276545
+    }
+  },
+  {
+    "Quarter": "2021_Q4",
+    "Nation": {
+      "all": 230038,
+      "age_10": 257443,
+      "age_20": 256896,
+      "no_presale": 230038,
+      "no_presale_age_10": 265755,
+      "no_presale_age_20": 263302
+    },
+    "Taipei": {
+      "all": 699997,
+      "age_10": 790425,
+      "age_20": 779276,
+      "no_presale": 687164,
+      "no_presale_age_10": 778511,
+      "no_presale_age_20": 762919
+    },
+    "NewTaipei": {
+      "all": 365167,
+      "age_10": 400109,
+      "age_20": 388258,
+      "no_presale": 353177,
+      "no_presale_age_10": 395934,
+      "no_presale_age_20": 380519
+    },
+    "Taoyuan": {
+      "all": 214076,
+      "age_10": 247939,
+      "age_20": 237855,
+      "no_presale": 206554,
+      "no_presale_age_10": 231167,
+      "no_presale_age_20": 226979
+    },
+    "Taichung": {
+      "all": 224056,
+      "age_10": 251230,
+      "age_20": 253653,
+      "no_presale": 222944,
+      "no_presale_age_10": 260565,
+      "no_presale_age_20": 262850
+    },
+    "Tainan": {
+      "all": 178876,
+      "age_10": 194625,
+      "age_20": 196053,
+      "no_presale": 179932,
+      "no_presale_age_10": 228669,
+      "no_presale_age_20": 227519
+    },
+    "Kaohsiung": {
+      "all": 208180,
+      "age_10": 221124,
+      "age_20": 221600,
+      "no_presale": 208395,
+      "no_presale_age_10": 233864,
+      "no_presale_age_20": 231967
+    },
+    "Hsinchu": {
+      "all": 237838,
+      "age_10": 298347,
+      "age_20": 287957,
+      "no_presale": 247537,
+      "no_presale_age_10": 312327,
+      "no_presale_age_20": 296945
+    }
+  },
+  {
+    "Quarter": "2022_Q1",
+    "Nation": {
+      "all": 244314,
+      "age_10": 271008,
+      "age_20": 271228,
+      "no_presale": 244417,
+      "no_presale_age_10": 278251,
+      "no_presale_age_20": 277301
+    },
+    "Taipei": {
+      "all": 693650,
+      "age_10": 798111,
+      "age_20": 783339,
+      "no_presale": 693613,
+      "no_presale_age_10": 801983,
+      "no_presale_age_20": 785126
+    },
+    "NewTaipei": {
+      "all": 371775,
+      "age_10": 396364,
+      "age_20": 389273,
+      "no_presale": 371407,
+      "no_presale_age_10": 414998,
+      "no_presale_age_20": 400927
+    },
+    "Taoyuan": {
+      "all": 220660,
+      "age_10": 247755,
+      "age_20": 241623,
+      "no_presale": 220896,
+      "no_presale_age_10": 248694,
+      "no_presale_age_20": 241934
+    },
+    "Taichung": {
+      "all": 238714,
+      "age_10": 278107,
+      "age_20": 279993,
+      "no_presale": 236461,
+      "no_presale_age_10": 278484,
+      "no_presale_age_20": 280998
+    },
+    "Tainan": {
+      "all": 189552,
+      "age_10": 235279,
+      "age_20": 232496,
+      "no_presale": 191111,
+      "no_presale_age_10": 241656,
+      "no_presale_age_20": 236635
+    },
+    "Kaohsiung": {
+      "all": 230479,
+      "age_10": 246602,
+      "age_20": 245959,
+      "no_presale": 231828,
+      "no_presale_age_10": 254625,
+      "no_presale_age_20": 253035
+    },
+    "Hsinchu": {
+      "all": 231821,
+      "age_10": 279448,
+      "age_20": 277524,
+      "no_presale": 247021,
+      "no_presale_age_10": 341888,
+      "no_presale_age_20": 326583
+    }
+  },
+  {
+    "Quarter": "2022_Q2",
+    "Nation": {
+      "all": 252428,
+      "age_10": 286464,
+      "age_20": 285626,
+      "no_presale": 252817,
+      "no_presale_age_10": 297425,
+      "no_presale_age_20": 294050
+    },
+    "Taipei": {
+      "all": 725329,
+      "age_10": 791921,
+      "age_20": 788073,
+      "no_presale": 730879,
+      "no_presale_age_10": 843817,
+      "no_presale_age_20": 809808
+    },
+    "NewTaipei": {
+      "all": 382585,
+      "age_10": 427945,
+      "age_20": 411869,
+      "no_presale": 388339,
+      "no_presale_age_10": 441349,
+      "no_presale_age_20": 424592
+    },
+    "Taoyuan": {
+      "all": 228365,
+      "age_10": 260579,
+      "age_20": 252288,
+      "no_presale": 226423,
+      "no_presale_age_10": 255208,
+      "no_presale_age_20": 249200
+    },
+    "Taichung": {
+      "all": 248502,
+      "age_10": 302663,
+      "age_20": 301940,
+      "no_presale": 246298,
+      "no_presale_age_10": 302945,
+      "no_presale_age_20": 302030
+    },
+    "Tainan": {
+      "all": 187045,
+      "age_10": 239005,
+      "age_20": 234036,
+      "no_presale": 191547,
+      "no_presale_age_10": 256390,
+      "no_presale_age_20": 250331
+    },
+    "Kaohsiung": {
+      "all": 235736,
+      "age_10": 255253,
+      "age_20": 254992,
+      "no_presale": 240579,
+      "no_presale_age_10": 270188,
+      "no_presale_age_20": 267745
+    },
+    "Hsinchu": {
+      "all": 243236,
+      "age_10": 277127,
+      "age_20": 290086,
+      "no_presale": 272610,
+      "no_presale_age_10": 372076,
+      "no_presale_age_20": 355936
+    }
+  },
+  {
+    "Quarter": "2022_Q3",
+    "Nation": {
+      "all": 258598,
+      "age_10": 302628,
+      "age_20": 301554,
+      "no_presale": 254760,
+      "no_presale_age_10": 302651,
+      "no_presale_age_20": 301441
+    },
+    "Taipei": {
+      "all": 711456,
+      "age_10": 821299,
+      "age_20": 800526,
+      "no_presale": 701577,
+      "no_presale_age_10": 828661,
+      "no_presale_age_20": 794395
+    },
+    "NewTaipei": {
+      "all": 394757,
+      "age_10": 464532,
+      "age_20": 446595,
+      "no_presale": 383322,
+      "no_presale_age_10": 447987,
+      "no_presale_age_20": 427498
+    },
+    "Taoyuan": {
+      "all": 238828,
+      "age_10": 282208,
+      "age_20": 267902,
+      "no_presale": 232615,
+      "no_presale_age_10": 267527,
+      "no_presale_age_20": 257904
+    },
+    "Taichung": {
+      "all": 255273,
+      "age_10": 296046,
+      "age_20": 298248,
+      "no_presale": 251392,
+      "no_presale_age_10": 305504,
+      "no_presale_age_20": 306068
+    },
+    "Tainan": {
+      "all": 195279,
+      "age_10": 254154,
+      "age_20": 252939,
+      "no_presale": 198532,
+      "no_presale_age_10": 262291,
+      "no_presale_age_20": 261064
+    },
+    "Kaohsiung": {
+      "all": 228410,
+      "age_10": 263934,
+      "age_20": 263917,
+      "no_presale": 238215,
+      "no_presale_age_10": 274704,
+      "no_presale_age_20": 273104
+    },
+    "Hsinchu": {
+      "all": 288145,
+      "age_10": 385203,
+      "age_20": 371144,
+      "no_presale": 274833,
+      "no_presale_age_10": 366102,
+      "no_presale_age_20": 349405
+    }
+  },
+  {
+    "Quarter": "2022_Q4",
+    "Nation": {
+      "all": 254040,
+      "age_10": 287517,
+      "age_20": 290435,
+      "no_presale": 257309,
+      "no_presale_age_10": 305841,
+      "no_presale_age_20": 305015
+    },
+    "Taipei": {
+      "all": 725408,
+      "age_10": 829223,
+      "age_20": 803094,
+      "no_presale": 717869,
+      "no_presale_age_10": 803197,
+      "no_presale_age_20": 791998
+    },
+    "NewTaipei": {
+      "all": 382684,
+      "age_10": 431651,
+      "age_20": 418390,
+      "no_presale": 381281,
+      "no_presale_age_10": 449719,
+      "no_presale_age_20": 422091
+    },
+    "Taoyuan": {
+      "all": 233653,
+      "age_10": 273656,
+      "age_20": 264917,
+      "no_presale": 236443,
+      "no_presale_age_10": 281278,
+      "no_presale_age_20": 268621
+    },
+    "Taichung": {
+      "all": 254912,
+      "age_10": 287590,
+      "age_20": 290007,
+      "no_presale": 251240,
+      "no_presale_age_10": 296364,
+      "no_presale_age_20": 300377
+    },
+    "Tainan": {
+      "all": 194367,
+      "age_10": 251329,
+      "age_20": 248825,
+      "no_presale": 201947,
+      "no_presale_age_10": 268909,
+      "no_presale_age_20": 266393
+    },
+    "Kaohsiung": {
+      "all": 244939,
+      "age_10": 282036,
+      "age_20": 278484,
+      "no_presale": 249808,
+      "no_presale_age_10": 294149,
+      "no_presale_age_20": 288529
+    },
+    "Hsinchu": {
+      "all": 247788,
+      "age_10": 251316,
+      "age_20": 291749,
+      "no_presale": 305517,
+      "no_presale_age_10": 394240,
+      "no_presale_age_20": 383336
+    }
+  },
+  {
+    "Quarter": "2023_Q1",
+    "Nation": {
+      "all": 256985,
+      "age_10": 290638,
+      "age_20": 293084,
+      "no_presale": 257091,
+      "no_presale_age_10": 299607,
+      "no_presale_age_20": 300013
+    },
+    "Taipei": {
+      "all": 718944,
+      "age_10": 826017,
+      "age_20": 807198,
+      "no_presale": 714656,
+      "no_presale_age_10": 832850,
+      "no_presale_age_20": 811607
+    },
+    "NewTaipei": {
+      "all": 399666,
+      "age_10": 465121,
+      "age_20": 440911,
+      "no_presale": 385759,
+      "no_presale_age_10": 459479,
+      "no_presale_age_20": 427157
+    },
+    "Taoyuan": {
+      "all": 236671,
+      "age_10": 272155,
+      "age_20": 264820,
+      "no_presale": 235474,
+      "no_presale_age_10": 269428,
+      "no_presale_age_20": 262780
+    },
+    "Taichung": {
+      "all": 260855,
+      "age_10": 295398,
+      "age_20": 298663,
+      "no_presale": 258299,
+      "no_presale_age_10": 301066,
+      "no_presale_age_20": 305775
+    },
+    "Tainan": {
+      "all": 199511,
+      "age_10": 259838,
+      "age_20": 255564,
+      "no_presale": 201208,
+      "no_presale_age_10": 280192,
+      "no_presale_age_20": 272932
+    },
+    "Kaohsiung": {
+      "all": 225322,
+      "age_10": 274264,
+      "age_20": 272552,
+      "no_presale": 227507,
+      "no_presale_age_10": 281021,
+      "no_presale_age_20": 276727
+    },
+    "Hsinchu": {
+      "all": 285580,
+      "age_10": 310539,
+      "age_20": 318787,
+      "no_presale": 290985,
+      "no_presale_age_10": 379084,
+      "no_presale_age_20": 373174
+    }
+  },
+  {
+    "Quarter": "2023_Q2",
+    "Nation": {
+      "all": 260575,
+      "age_10": 292658,
+      "age_20": 295524,
+      "no_presale": 262450,
+      "no_presale_age_10": 305656,
+      "no_presale_age_20": 305987
+    },
+    "Taipei": {
+      "all": 727177,
+      "age_10": 859537,
+      "age_20": 819967,
+      "no_presale": 725985,
+      "no_presale_age_10": 870707,
+      "no_presale_age_20": 818678
+    },
+    "NewTaipei": {
+      "all": 397931,
+      "age_10": 460036,
+      "age_20": 432993,
+      "no_presale": 398063,
+      "no_presale_age_10": 473562,
+      "no_presale_age_20": 436236
+    },
+    "Taoyuan": {
+      "all": 246630,
+      "age_10": 284625,
+      "age_20": 275342,
+      "no_presale": 246407,
+      "no_presale_age_10": 285051,
+      "no_presale_age_20": 274917
+    },
+    "Taichung": {
+      "all": 262379,
+      "age_10": 292681,
+      "age_20": 295498,
+      "no_presale": 256258,
+      "no_presale_age_10": 302106,
+      "no_presale_age_20": 306017
+    },
+    "Tainan": {
+      "all": 205329,
+      "age_10": 263514,
+      "age_20": 257107,
+      "no_presale": 210304,
+      "no_presale_age_10": 280169,
+      "no_presale_age_20": 272803
+    },
+    "Kaohsiung": {
+      "all": 239491,
+      "age_10": 270800,
+      "age_20": 271339,
+      "no_presale": 246820,
+      "no_presale_age_10": 283124,
+      "no_presale_age_20": 280463
+    },
+    "Hsinchu": {
+      "all": 305894,
+      "age_10": 350418,
+      "age_20": 353302,
+      "no_presale": 309726,
+      "no_presale_age_10": 371415,
+      "no_presale_age_20": 372000
+    }
+  },
+  {
+    "Quarter": "2023_Q3",
+    "Nation": {
+      "all": 262093,
+      "age_10": 300498,
+      "age_20": 304069,
+      "no_presale": 263539,
+      "no_presale_age_10": 308089,
+      "no_presale_age_20": 309527
+    },
+    "Taipei": {
+      "all": 732129,
+      "age_10": 837220,
+      "age_20": 814309,
+      "no_presale": 732309,
+      "no_presale_age_10": 833448,
+      "no_presale_age_20": 812450
+    },
+    "NewTaipei": {
+      "all": 387392,
+      "age_10": 469907,
+      "age_20": 435554,
+      "no_presale": 374534,
+      "no_presale_age_10": 458532,
+      "no_presale_age_20": 415681
+    },
+    "Taoyuan": {
+      "all": 251504,
+      "age_10": 296648,
+      "age_20": 285241,
+      "no_presale": 252522,
+      "no_presale_age_10": 299572,
+      "no_presale_age_20": 287739
+    },
+    "Taichung": {
+      "all": 265157,
+      "age_10": 307309,
+      "age_20": 310886,
+      "no_presale": 265881,
+      "no_presale_age_10": 313555,
+      "no_presale_age_20": 315412
+    },
+    "Tainan": {
+      "all": 204807,
+      "age_10": 262316,
+      "age_20": 256598,
+      "no_presale": 207780,
+      "no_presale_age_10": 276610,
+      "no_presale_age_20": 273724
+    },
+    "Kaohsiung": {
+      "all": 218674,
+      "age_10": 264810,
+      "age_20": 266939,
+      "no_presale": 218783,
+      "no_presale_age_10": 268268,
+      "no_presale_age_20": 270988
+    },
+    "Hsinchu": {
+      "all": 313911,
+      "age_10": 357924,
+      "age_20": 364615,
+      "no_presale": 348734,
+      "no_presale_age_10": 410493,
+      "no_presale_age_20": 397402
+    }
+  },
+  {
+    "Quarter": "2023_Q4",
+    "Nation": {
+      "all": 279891,
+      "age_10": 310193,
+      "age_20": 312648,
+      "no_presale": 281223,
+      "no_presale_age_10": 317296,
+      "no_presale_age_20": 318678
+    },
+    "Taipei": {
+      "all": 760357,
+      "age_10": 901726,
+      "age_20": 863712,
+      "no_presale": 760833,
+      "no_presale_age_10": 900294,
+      "no_presale_age_20": 863699
+    },
+    "NewTaipei": {
+      "all": 406421,
+      "age_10": 454969,
+      "age_20": 441888,
+      "no_presale": 407388,
+      "no_presale_age_10": 487312,
+      "no_presale_age_20": 460268
+    },
+    "Taoyuan": {
+      "all": 262314,
+      "age_10": 311732,
+      "age_20": 295987,
+      "no_presale": 261736,
+      "no_presale_age_10": 312532,
+      "no_presale_age_20": 296357
+    },
+    "Taichung": {
+      "all": 273813,
+      "age_10": 312324,
+      "age_20": 313074,
+      "no_presale": 272522,
+      "no_presale_age_10": 316317,
+      "no_presale_age_20": 316959
+    },
+    "Tainan": {
+      "all": 221600,
+      "age_10": 270339,
+      "age_20": 267739,
+      "no_presale": 221428,
+      "no_presale_age_10": 278374,
+      "no_presale_age_20": 275390
+    },
+    "Kaohsiung": {
+      "all": 260380,
+      "age_10": 284579,
+      "age_20": 283355,
+      "no_presale": 262894,
+      "no_presale_age_10": 288643,
+      "no_presale_age_20": 286013
+    },
+    "Hsinchu": {
+      "all": 351628,
+      "age_10": 409089,
+      "age_20": 403992,
+      "no_presale": 378340,
+      "no_presale_age_10": 441036,
+      "no_presale_age_20": 421998
+    }
+  },
+  {
+    "Quarter": "2024_Q1",
+    "Nation": {
+      "all": 284038,
+      "age_10": 315762,
+      "age_20": 319795,
+      "no_presale": 286023,
+      "no_presale_age_10": 322050,
+      "no_presale_age_20": 324909
+    },
+    "Taipei": {
+      "all": 757817,
+      "age_10": 899666,
+      "age_20": 867091,
+      "no_presale": 762752,
+      "no_presale_age_10": 910149,
+      "no_presale_age_20": 869098
+    },
+    "NewTaipei": {
+      "all": 409625,
+      "age_10": 456860,
+      "age_20": 448817,
+      "no_presale": 421179,
+      "no_presale_age_10": 496770,
+      "no_presale_age_20": 474050
+    },
+    "Taoyuan": {
+      "all": 264899,
+      "age_10": 321107,
+      "age_20": 305051,
+      "no_presale": 263960,
+      "no_presale_age_10": 319855,
+      "no_presale_age_20": 304030
+    },
+    "Taichung": {
+      "all": 283598,
+      "age_10": 331423,
+      "age_20": 334098,
+      "no_presale": 283451,
+      "no_presale_age_10": 334965,
+      "no_presale_age_20": 336744
+    },
+    "Tainan": {
+      "all": 230770,
+      "age_10": 290628,
+      "age_20": 288975,
+      "no_presale": 231408,
+      "no_presale_age_10": 299046,
+      "no_presale_age_20": 292299
+    },
+    "Kaohsiung": {
+      "all": 268436,
+      "age_10": 293369,
+      "age_20": 292357,
+      "no_presale": 273041,
+      "no_presale_age_10": 299245,
+      "no_presale_age_20": 296740
+    },
+    "Hsinchu": {
+      "all": 351177,
+      "age_10": 416101,
+      "age_20": 403607,
+      "no_presale": 365848,
+      "no_presale_age_10": 451851,
+      "no_presale_age_20": 434266
+    }
+  },
+  {
+    "Quarter": "2024_Q2",
+    "Nation": {
+      "all": 300079,
+      "age_10": 335668,
+      "age_20": 337413,
+      "no_presale": 300526,
+      "no_presale_age_10": 338783,
+      "no_presale_age_20": 340327
+    },
+    "Taipei": {
+      "all": 778536,
+      "age_10": 885226,
+      "age_20": 868226,
+      "no_presale": 776502,
+      "no_presale_age_10": 885213,
+      "no_presale_age_20": 866321
+    },
+    "NewTaipei": {
+      "all": 433336,
+      "age_10": 474527,
+      "age_20": 469696,
+      "no_presale": 439554,
+      "no_presale_age_10": 504982,
+      "no_presale_age_20": 484112
+    },
+    "Taoyuan": {
+      "all": 278102,
+      "age_10": 331567,
+      "age_20": 312539,
+      "no_presale": 277950,
+      "no_presale_age_10": 339071,
+      "no_presale_age_20": 318033
+    },
+    "Taichung": {
+      "all": 292549,
+      "age_10": 345109,
+      "age_20": 346612,
+      "no_presale": 293613,
+      "no_presale_age_10": 348645,
+      "no_presale_age_20": 349116
+    },
+    "Tainan": {
+      "all": 239602,
+      "age_10": 294939,
+      "age_20": 292306,
+      "no_presale": 243595,
+      "no_presale_age_10": 298869,
+      "no_presale_age_20": 296443
+    },
+    "Kaohsiung": {
+      "all": 299950,
+      "age_10": 325046,
+      "age_20": 320855,
+      "no_presale": 298696,
+      "no_presale_age_10": 323587,
+      "no_presale_age_20": 320099
+    },
+    "Hsinchu": {
+      "all": 354676,
+      "age_10": 380453,
+      "age_20": 396126,
+      "no_presale": 391258,
+      "no_presale_age_10": 455838,
+      "no_presale_age_20": 446215
+    }
+  },
+  {
+    "Quarter": "2024_Q3",
+    "Nation": {
+      "all": 317217,
+      "age_10": 348689,
+      "age_20": 350456,
+      "no_presale": 318003,
+      "no_presale_age_10": 353772,
+      "no_presale_age_20": 354979
+    },
+    "Taipei": {
+      "all": 820562,
+      "age_10": 969846,
+      "age_20": 928539,
+      "no_presale": 814476,
+      "no_presale_age_10": 955689,
+      "no_presale_age_20": 918506
+    },
+    "NewTaipei": {
+      "all": 450782,
+      "age_10": 514823,
+      "age_20": 494264,
+      "no_presale": 466615,
+      "no_presale_age_10": 551035,
+      "no_presale_age_20": 522043
+    },
+    "Taoyuan": {
+      "all": 293828,
+      "age_10": 358327,
+      "age_20": 334463,
+      "no_presale": 292355,
+      "no_presale_age_10": 363326,
+      "no_presale_age_20": 336797
+    },
+    "Taichung": {
+      "all": 308592,
+      "age_10": 356899,
+      "age_20": 359375,
+      "no_presale": 306671,
+      "no_presale_age_10": 355293,
+      "no_presale_age_20": 358840
+    },
+    "Tainan": {
+      "all": 265663,
+      "age_10": 309610,
+      "age_20": 308519,
+      "no_presale": 265448,
+      "no_presale_age_10": 310051,
+      "no_presale_age_20": 308977
+    },
+    "Kaohsiung": {
+      "all": 318788,
+      "age_10": 342456,
+      "age_20": 338896,
+      "no_presale": 320122,
+      "no_presale_age_10": 344169,
+      "no_presale_age_20": 340873
+    },
+    "Hsinchu": {
+      "all": 359061,
+      "age_10": 395562,
+      "age_20": 404255,
+      "no_presale": 383230,
+      "no_presale_age_10": 459473,
+      "no_presale_age_20": 449415
+    }
+  },
+  {
+    "Quarter": "2024_Q4",
+    "Nation": {
+      "all": 311431,
+      "age_10": 351793,
+      "age_20": 353008,
+      "no_presale": 311587,
+      "no_presale_age_10": 354577,
+      "no_presale_age_20": 355779
+    },
+    "Taipei": {
+      "all": 808017,
+      "age_10": 977246,
+      "age_20": 937974,
+      "no_presale": 807868,
+      "no_presale_age_10": 975514,
+      "no_presale_age_20": 935767
+    },
+    "NewTaipei": {
+      "all": 462273,
+      "age_10": 546830,
+      "age_20": 516959,
+      "no_presale": 473780,
+      "no_presale_age_10": 578595,
+      "no_presale_age_20": 540365
+    },
+    "Taoyuan": {
+      "all": 301260,
+      "age_10": 362187,
+      "age_20": 340529,
+      "no_presale": 298536,
+      "no_presale_age_10": 371673,
+      "no_presale_age_20": 343990
+    },
+    "Taichung": {
+      "all": 305091,
+      "age_10": 363704,
+      "age_20": 363716,
+      "no_presale": 299040,
+      "no_presale_age_10": 352473,
+      "no_presale_age_20": 355798
+    },
+    "Tainan": {
+      "all": 259936,
+      "age_10": 308089,
+      "age_20": 306507,
+      "no_presale": 261917,
+      "no_presale_age_10": 309193,
+      "no_presale_age_20": 308152
+    },
+    "Kaohsiung": {
+      "all": 316549,
+      "age_10": 348167,
+      "age_20": 345332,
+      "no_presale": 318112,
+      "no_presale_age_10": 350136,
+      "no_presale_age_20": 346502
+    },
+    "Hsinchu": {
+      "all": 385988,
+      "age_10": 486213,
+      "age_20": 473058,
+      "no_presale": 395190,
+      "no_presale_age_10": 490793,
+      "no_presale_age_20": 480919
+    }
+  },
+  {
+    "Quarter": "2025_Q1",
+    "Nation": {
+      "all": 306469,
+      "age_10": 350188,
+      "age_20": 351871,
+      "no_presale": 306967,
+      "no_presale_age_10": 354255,
+      "no_presale_age_20": 355208
+    },
+    "Taipei": [],
+    "NewTaipei": {
+      "all": 477260,
+      "age_10": 582734,
+      "age_20": 553140,
+      "no_presale": 479785,
+      "no_presale_age_10": 590456,
+      "no_presale_age_20": 557660
+    },
+    "Taoyuan": {
+      "all": 294939,
+      "age_10": 363223,
+      "age_20": 337177,
+      "no_presale": 294370,
+      "no_presale_age_10": 363372,
+      "no_presale_age_20": 336926
+    },
+    "Taichung": [],
+    "Tainan": [],
+    "Kaohsiung": {
+      "all": 291421,
+      "age_10": 341043,
+      "age_20": 335469,
+      "no_presale": 289521,
+      "no_presale_age_10": 343117,
+      "no_presale_age_20": 337621
+    },
+    "Hsinchu": {
+      "all": 378248,
+      "age_10": 470726,
+      "age_20": 461028,
+      "no_presale": 389375,
+      "no_presale_age_10": 470726,
+      "no_presale_age_20": 461028
+    }
+  }
+]
 }
