@@ -1820,7 +1820,7 @@
  ],
   "newData": [
       [
-  {
+   {
     "Quarter": "2013_Q1",
     "Nation": {
       "all": 161213,
@@ -3968,8 +3968,30 @@
       "all": 373081,
       "age_10": 479421,
       "age_20": 461762
-   }
-      }
- ]
+    }
+  },
+  {
+    "Quarter": "2025_Q3",
+    "Nation": [],
+    "Taipei": [],
+    "NewTaipei": [],
+    "Taoyuan": [],
+    "Taichung": [],
+    "Tainan": [],
+    "Kaohsiung": [],
+    "Hsinchu": []
+  },
+  {
+    "Quarter": "2025_Q4",
+    "Nation": [],
+    "Taipei": [],
+    "NewTaipei": [],
+    "Taoyuan": [],
+    "Taichung": [],
+    "Tainan": [],
+    "Kaohsiung": [],
+    "Hsinchu": []
+  }
 ]
+  ]
 }
