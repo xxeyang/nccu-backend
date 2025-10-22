@@ -3967,14 +3967,46 @@
   },
   {
     "Quarter": "2025_Q3",
-    "Nation": [],
-    "Taipei": [],
-    "NewTaipei": [],
-    "Taoyuan": [],
-    "Taichung": [],
-    "Tainan": [],
-    "Kaohsiung": [],
-    "Hsinchu": []
+    "Nation": {
+      "all": 308192,
+      "age_10": 354612,
+      "age_20": 355013
+    },
+    "Taipei": {
+      "all": 855926,
+      "age_10": 1054532,
+      "age_20": 1009316
+    },
+    "NewTaipei": {
+      "all": 473387,
+      "age_10": 580281,
+      "age_20": 558350
+    },
+    "Taoyuan": {
+      "all": 298403,
+      "age_10": 371516,
+      "age_20": 343855
+    },
+    "Taichung": {
+      "all": 295060,
+      "age_10": 347236,
+      "age_20": 347719
+    },
+    "Tainan": {
+      "all": 257881,
+      "age_10": 301339,
+      "age_20": 300460
+    },
+    "Kaohsiung": {
+      "all": 288684,
+      "age_10": 342228,
+      "age_20": 335987
+    },
+    "Hsinchu": {
+      "all": 372155,
+      "age_10": 486684,
+      "age_20": 468078
+    }
   },
   {
     "Quarter": "2025_Q4",
